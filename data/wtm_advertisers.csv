@@ -1,31 +1,31 @@
-id,name,created_at,advertisers_entities.id,entities.short_name,entities.is_active,entities.is_political,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-4342701e-5679-4cca-b54b-caf5a6776e58,Vullnet Ruzhdi Sinaj,2023-02-07T15:04:59.425Z,76b8f68c-ba48-402b-b873-a03b21f87906,PS,true,true,Albania,al,1272430732865665,Vullnet Ruzhdi Sinaj,Facebook
-833426ba-9ea1-423a-b2a9-a47f688bc5ef,Edona Bilali,2023-03-08T14:49:08.034Z,87c70f4a-bf14-4e7f-9bfa-148c14a2e258,PS,true,true,Albania,al,266680836863255,Edona Bilali,Facebook
-863d1add-1d5f-4422-ac2b-f257f773034c,Emiriana Sako,2023-04-23T06:50:59.784Z,fbfc8074-bdc4-4979-9399-e3953dfebdec,PS,true,true,Albania,al,102575978326449,Emiriana Sako,Facebook
-8c4a3184-8852-413c-95dd-2d7ba6d0a0e7,Oltion Çaçi,2023-05-10T06:51:32.689Z,2c664f3a-e06c-45e6-a6d6-846b4e2a0595,PS,true,true,Albania,al,114190684953563,Oltion Çaçi,Facebook
-9e1eb7b9-186f-4245-918b-71fbe75bac89,Etjen Xhafaj,2023-02-07T15:04:59.445Z,07b28779-1d9b-4fce-9315-f7f2b139fc82,PS,true,true,Albania,al,114265903829452,Etjen Xhafaj,Facebook
-a05c16e3-1484-4e27-b675-0e0d42434902,Oltion Çaçi,2023-05-13T06:51:22.459Z,52e0020e-4b83-4be4-8e95-e3c461eec11d,PS,true,true,Albania,al,107773732317350,Oltion Çaçi,Facebook
-c8a336e0-0a8a-469a-a8a7-a94f813f9af5,Sotiraq Filo,2023-05-11T06:51:52.394Z,c081d52e-b8a9-45b5-aeee-bd2a3b0d3f46,PS,true,true,Albania,al,559997054053389,Sotiraq Filo,Facebook
-cee7f23f-b3db-4f83-9f69-46598081b618,Erion Veliaj,2023-04-22T06:01:48.193Z,752470e3-3cc8-4395-bfad-2cff5c3ec387,PS,true,true,Albania,al,38316716925,Erion Veliaj,Facebook
-0310e8d8-bb9d-4168-a61e-63bacf4c8e41,Bujar Leskaj,2023-02-23T10:51:35.384Z,c9cd58d5-7b4d-428b-b698-01870590d2c6,PD,true,true,Albania,al,101027901869135,Bujar Leskaj,Facebook
-13cc8903-1bf4-4a9e-84cb-5193b5a1ae1d,Partia Demokratike Dega Paskuqan,2023-05-05T06:51:11.048Z,17a08cb8-18f0-4a0e-a2bf-632cb452121d,PD,true,true,Albania,al,113720191358697,Partia Demokratike Dega Paskuqan,Facebook
-25b8b2a1-135c-497d-b74a-b73f06fc242c,Alfrida Marku - Dedgjonaj,2023-04-16T15:03:38.578Z,f31e2016-bfe0-4c6f-bf6a-0de2a18e7105,PD,true,true,Albania,al,853911828002202,Alfrida Marku - Dedgjonaj,Facebook
-5745f782-59c6-4161-987a-087765afac4c,Belind Këlliçi,2023-02-07T15:04:59.275Z,312c708a-2053-4773-8c4e-cf19c5a9cbce,PD,true,true,Albania,al,975204015836064,Belind Këlliçi,Facebook
-6a89f548-38eb-4a6a-943a-d83ae25b708e,Jorida Tabaku,2023-04-16T15:03:38.545Z,1db79596-91c7-40ee-b89c-6adcba806600,PD,true,true,Albania,al,543904035697566,Jorida Tabaku,Facebook
-84b9511e-a48b-45fa-a992-df8a3b9132ad,Bardh Spahia,2023-02-07T15:04:59.416Z,e37886e4-75c4-4695-a37c-1402194caebb,PD,true,true,Albania,al,497474187302750,Bardh Spahia,Facebook
-851d3b82-6c54-4279-9ea3-e9e966430fd9,Eno Bozdo,2023-03-24T10:51:32.631Z,908b28da-e636-4459-b514-bcd228884713,PD,true,true,Albania,al,103397012468814,Eno Bozdo,Facebook
-868289db-4d32-4447-be08-9c93a5a45efa,Partia Socialiste e Shqipërisë,2023-04-05T10:51:23.102Z,54df5128-f620-4ce9-9d74-e0d4b6511e32,PD,true,true,Albania,al,65903161692,Partia Socialiste e Shqipërisë,Facebook
-8f820c40-f95a-4387-8e49-43b30432c4a3,Sofije Kryeziu Alushaj,2023-04-10T10:50:54.872Z,ac9dcfd3-2bbd-42d3-ba97-5e2522db7b79,PD,true,true,Albania,al,104140849249455,Sofije Kryeziu Alushaj,Facebook
-93b501fb-da39-4307-97d2-306b8dd7e244,Atird Hoxha,2023-02-08T05:54:33.185Z,b012e2ba-301c-4a24-ae0b-bb35f325f3d9,PD,true,true,Albania,al,111067424397101,Atird Hoxha,Facebook
-9edd59ec-6b5e-4654-a93d-89634df48ba1,Taulant Zeneli,2023-05-14T06:51:17.376Z,049c817b-699c-41cb-9261-f6aad5dbea2a,PD,true,true,Albania,al,430053200698301,Taulant Zeneli,Facebook
-b67a86f2-81eb-47a9-960c-a7475349eaac,Klevis Balliu,2023-02-07T15:04:59.357Z,df9cd33e-fe85-410a-bfd8-bfef162bddde,PD,true,true,Albania,al,1789186294744514,Klevis Balliu,Facebook
-ba06402d-57fc-4ad1-80a1-dc5646ec8c7d,Partia Demokratike Fushe Kruje,2023-05-09T06:51:18.818Z,abf7b930-9a98-438c-8bff-e933d0e72247,PD,true,true,Albania,al,104280845996095,Partia Demokratike Fushe Kruje,Facebook
-c3cede89-826c-4fb1-9c56-c673fe5ec125,Arjan Hoxha,2023-05-06T06:51:35.982Z,1553aae8-8e54-45e6-ac20-61ad752c4b37,PD,true,true,Albania,al,100543289531078,Arjan Hoxha,Facebook
-c61fb10d-1b0d-4685-a822-88a4251c187a,Besnik Dushaj,2023-04-20T06:51:21.574Z,4ea75f8b-574e-44ec-81b1-beb3e49a4950,PD,true,true,Albania,al,102114922707998,Besnik Dushaj,Facebook
-e01be833-6d12-4a57-a7b9-5fcef4e4501f,Partia Demokratike Dega Korçë,2023-03-19T10:51:20.972Z,e0e53092-bc6e-4c22-883f-b55fbcddc78f,PD,true,true,Albania,al,104865875523565,Partia Demokratike Dega Korçë,Facebook
-e118c0ac-052b-49e2-b7e9-5915c6f8ca3e,Partia Demokratike Dega Tropoje,2023-04-24T06:51:22.982Z,9c85766b-e794-4c52-bc1c-df3fa71b2035,PD,true,true,Albania,al,349721191811615,Partia Demokratike Dega Tropoje,Facebook
-e6bc86cc-dd83-4c71-b6ee-81f844d632ce,Behar Haxhiu,2023-03-09T10:51:38.848Z,08756e2a-66cd-40b7-8d7e-750586f00abc,PD,true,true,Albania,al,110394928661453,Behar Haxhiu,Facebook
-f0ac4fdb-81c1-4dcd-a392-402eedee1528,Bashkë Fitojmë,2023-05-12T06:51:22.328Z,a4433998-0030-4cb1-a678-0ceaaf257959,PD,true,true,Albania,al,115670438130111,Bashkë Fitojmë,Facebook
-9eafae43-74e7-4a6b-8c40-d089938f7835,"Partia Drejtësi, Integrim dhe Unitet",2023-02-07T15:04:59.393Z,b5e56e22-5f70-4afe-9771-62e09339a5b3,PDIU,true,true,Albania,al,284923454880724,"Partia Drejtësi, Integrim dhe Unitet",Facebook
-bda3a4d6-c149-4738-a131-73a3a1de2c48,British Embassy Tirana,2023-06-05T06:51:28.702Z,bed69b0e-0da6-459f-985c-5916737edc28,Oth,true,true,Albania,al,967105923330395,British Embassy Tirana,Facebook
-d7ee848e-e3cf-4862-8070-d69b2870069e,Euronews Albania,2023-05-18T06:51:27.514Z,1231783d-7699-4312-b31e-6dcd21a35209,Oth,true,true,Albania,al,2422838357744176,Euronews Albania,Facebook
+id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
+4342701e-5679-4cca-b54b-caf5a6776e58,Vullnet Ruzhdi Sinaj,2023-02-07T15:04:59.425Z,76b8f68c-ba48-402b-b873-a03b21f87906,PS,Albania,al,1272430732865665,Vullnet Ruzhdi Sinaj,Facebook
+833426ba-9ea1-423a-b2a9-a47f688bc5ef,Edona Bilali,2023-03-08T14:49:08.034Z,87c70f4a-bf14-4e7f-9bfa-148c14a2e258,PS,Albania,al,266680836863255,Edona Bilali,Facebook
+863d1add-1d5f-4422-ac2b-f257f773034c,Emiriana Sako,2023-04-23T06:50:59.784Z,fbfc8074-bdc4-4979-9399-e3953dfebdec,PS,Albania,al,102575978326449,Emiriana Sako,Facebook
+8c4a3184-8852-413c-95dd-2d7ba6d0a0e7,Oltion Çaçi,2023-05-10T06:51:32.689Z,2c664f3a-e06c-45e6-a6d6-846b4e2a0595,PS,Albania,al,114190684953563,Oltion Çaçi,Facebook
+9e1eb7b9-186f-4245-918b-71fbe75bac89,Etjen Xhafaj,2023-02-07T15:04:59.445Z,07b28779-1d9b-4fce-9315-f7f2b139fc82,PS,Albania,al,114265903829452,Etjen Xhafaj,Facebook
+a05c16e3-1484-4e27-b675-0e0d42434902,Oltion Çaçi,2023-05-13T06:51:22.459Z,52e0020e-4b83-4be4-8e95-e3c461eec11d,PS,Albania,al,107773732317350,Oltion Çaçi,Facebook
+c8a336e0-0a8a-469a-a8a7-a94f813f9af5,Sotiraq Filo,2023-05-11T06:51:52.394Z,c081d52e-b8a9-45b5-aeee-bd2a3b0d3f46,PS,Albania,al,559997054053389,Sotiraq Filo,Facebook
+cee7f23f-b3db-4f83-9f69-46598081b618,Erion Veliaj,2023-04-22T06:01:48.193Z,752470e3-3cc8-4395-bfad-2cff5c3ec387,PS,Albania,al,38316716925,Erion Veliaj,Facebook
+0310e8d8-bb9d-4168-a61e-63bacf4c8e41,Bujar Leskaj,2023-02-23T10:51:35.384Z,c9cd58d5-7b4d-428b-b698-01870590d2c6,PD,Albania,al,101027901869135,Bujar Leskaj,Facebook
+13cc8903-1bf4-4a9e-84cb-5193b5a1ae1d,Partia Demokratike Dega Paskuqan,2023-05-05T06:51:11.048Z,17a08cb8-18f0-4a0e-a2bf-632cb452121d,PD,Albania,al,113720191358697,Partia Demokratike Dega Paskuqan,Facebook
+25b8b2a1-135c-497d-b74a-b73f06fc242c,Alfrida Marku - Dedgjonaj,2023-04-16T15:03:38.578Z,f31e2016-bfe0-4c6f-bf6a-0de2a18e7105,PD,Albania,al,853911828002202,Alfrida Marku - Dedgjonaj,Facebook
+5745f782-59c6-4161-987a-087765afac4c,Belind Këlliçi,2023-02-07T15:04:59.275Z,312c708a-2053-4773-8c4e-cf19c5a9cbce,PD,Albania,al,975204015836064,Belind Këlliçi,Facebook
+6a89f548-38eb-4a6a-943a-d83ae25b708e,Jorida Tabaku,2023-04-16T15:03:38.545Z,1db79596-91c7-40ee-b89c-6adcba806600,PD,Albania,al,543904035697566,Jorida Tabaku,Facebook
+84b9511e-a48b-45fa-a992-df8a3b9132ad,Bardh Spahia,2023-02-07T15:04:59.416Z,e37886e4-75c4-4695-a37c-1402194caebb,PD,Albania,al,497474187302750,Bardh Spahia,Facebook
+851d3b82-6c54-4279-9ea3-e9e966430fd9,Eno Bozdo,2023-03-24T10:51:32.631Z,908b28da-e636-4459-b514-bcd228884713,PD,Albania,al,103397012468814,Eno Bozdo,Facebook
+868289db-4d32-4447-be08-9c93a5a45efa,Partia Socialiste e Shqipërisë,2023-04-05T10:51:23.102Z,54df5128-f620-4ce9-9d74-e0d4b6511e32,PD,Albania,al,65903161692,Partia Socialiste e Shqipërisë,Facebook
+8f820c40-f95a-4387-8e49-43b30432c4a3,Sofije Kryeziu Alushaj,2023-04-10T10:50:54.872Z,ac9dcfd3-2bbd-42d3-ba97-5e2522db7b79,PD,Albania,al,104140849249455,Sofije Kryeziu Alushaj,Facebook
+93b501fb-da39-4307-97d2-306b8dd7e244,Atird Hoxha,2023-02-08T05:54:33.185Z,b012e2ba-301c-4a24-ae0b-bb35f325f3d9,PD,Albania,al,111067424397101,Atird Hoxha,Facebook
+9edd59ec-6b5e-4654-a93d-89634df48ba1,Taulant Zeneli,2023-05-14T06:51:17.376Z,049c817b-699c-41cb-9261-f6aad5dbea2a,PD,Albania,al,430053200698301,Taulant Zeneli,Facebook
+b67a86f2-81eb-47a9-960c-a7475349eaac,Klevis Balliu,2023-02-07T15:04:59.357Z,df9cd33e-fe85-410a-bfd8-bfef162bddde,PD,Albania,al,1789186294744514,Klevis Balliu,Facebook
+ba06402d-57fc-4ad1-80a1-dc5646ec8c7d,Partia Demokratike Fushe Kruje,2023-05-09T06:51:18.818Z,abf7b930-9a98-438c-8bff-e933d0e72247,PD,Albania,al,104280845996095,Partia Demokratike Fushe Kruje,Facebook
+c3cede89-826c-4fb1-9c56-c673fe5ec125,Arjan Hoxha,2023-05-06T06:51:35.982Z,1553aae8-8e54-45e6-ac20-61ad752c4b37,PD,Albania,al,100543289531078,Arjan Hoxha,Facebook
+c61fb10d-1b0d-4685-a822-88a4251c187a,Besnik Dushaj,2023-04-20T06:51:21.574Z,4ea75f8b-574e-44ec-81b1-beb3e49a4950,PD,Albania,al,102114922707998,Besnik Dushaj,Facebook
+e01be833-6d12-4a57-a7b9-5fcef4e4501f,Partia Demokratike Dega Korçë,2023-03-19T10:51:20.972Z,e0e53092-bc6e-4c22-883f-b55fbcddc78f,PD,Albania,al,104865875523565,Partia Demokratike Dega Korçë,Facebook
+e118c0ac-052b-49e2-b7e9-5915c6f8ca3e,Partia Demokratike Dega Tropoje,2023-04-24T06:51:22.982Z,9c85766b-e794-4c52-bc1c-df3fa71b2035,PD,Albania,al,349721191811615,Partia Demokratike Dega Tropoje,Facebook
+e6bc86cc-dd83-4c71-b6ee-81f844d632ce,Behar Haxhiu,2023-03-09T10:51:38.848Z,08756e2a-66cd-40b7-8d7e-750586f00abc,PD,Albania,al,110394928661453,Behar Haxhiu,Facebook
+f0ac4fdb-81c1-4dcd-a392-402eedee1528,Bashkë Fitojmë,2023-05-12T06:51:22.328Z,a4433998-0030-4cb1-a678-0ceaaf257959,PD,Albania,al,115670438130111,Bashkë Fitojmë,Facebook
+9eafae43-74e7-4a6b-8c40-d089938f7835,"Partia Drejtësi, Integrim dhe Unitet",2023-02-07T15:04:59.393Z,b5e56e22-5f70-4afe-9771-62e09339a5b3,PDIU,Albania,al,284923454880724,"Partia Drejtësi, Integrim dhe Unitet",Facebook
+bda3a4d6-c149-4738-a131-73a3a1de2c48,British Embassy Tirana,2023-06-05T06:51:28.702Z,bed69b0e-0da6-459f-985c-5916737edc28,Oth,Albania,al,967105923330395,British Embassy Tirana,Facebook
+d7ee848e-e3cf-4862-8070-d69b2870069e,Euronews Albania,2023-05-18T06:51:27.514Z,1231783d-7699-4312-b31e-6dcd21a35209,Oth,Albania,al,2422838357744176,Euronews Albania,Facebook
