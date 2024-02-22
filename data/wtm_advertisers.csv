@@ -1,31 +1,631 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-4342701e-5679-4cca-b54b-caf5a6776e58,Vullnet Ruzhdi Sinaj,2023-02-07T15:04:59.425Z,76b8f68c-ba48-402b-b873-a03b21f87906,PS,Albania,al,1272430732865665,Vullnet Ruzhdi Sinaj,Facebook
-833426ba-9ea1-423a-b2a9-a47f688bc5ef,Edona Bilali,2023-03-08T14:49:08.034Z,87c70f4a-bf14-4e7f-9bfa-148c14a2e258,PS,Albania,al,266680836863255,Edona Bilali,Facebook
-863d1add-1d5f-4422-ac2b-f257f773034c,Emiriana Sako,2023-04-23T06:50:59.784Z,fbfc8074-bdc4-4979-9399-e3953dfebdec,PS,Albania,al,102575978326449,Emiriana Sako,Facebook
-8c4a3184-8852-413c-95dd-2d7ba6d0a0e7,Oltion Çaçi,2023-05-10T06:51:32.689Z,2c664f3a-e06c-45e6-a6d6-846b4e2a0595,PS,Albania,al,114190684953563,Oltion Çaçi,Facebook
-9e1eb7b9-186f-4245-918b-71fbe75bac89,Etjen Xhafaj,2023-02-07T15:04:59.445Z,07b28779-1d9b-4fce-9315-f7f2b139fc82,PS,Albania,al,114265903829452,Etjen Xhafaj,Facebook
-a05c16e3-1484-4e27-b675-0e0d42434902,Oltion Çaçi,2023-05-13T06:51:22.459Z,52e0020e-4b83-4be4-8e95-e3c461eec11d,PS,Albania,al,107773732317350,Oltion Çaçi,Facebook
-c8a336e0-0a8a-469a-a8a7-a94f813f9af5,Sotiraq Filo,2023-05-11T06:51:52.394Z,c081d52e-b8a9-45b5-aeee-bd2a3b0d3f46,PS,Albania,al,559997054053389,Sotiraq Filo,Facebook
-cee7f23f-b3db-4f83-9f69-46598081b618,Erion Veliaj,2023-04-22T06:01:48.193Z,752470e3-3cc8-4395-bfad-2cff5c3ec387,PS,Albania,al,38316716925,Erion Veliaj,Facebook
-0310e8d8-bb9d-4168-a61e-63bacf4c8e41,Bujar Leskaj,2023-02-23T10:51:35.384Z,c9cd58d5-7b4d-428b-b698-01870590d2c6,PD,Albania,al,101027901869135,Bujar Leskaj,Facebook
-13cc8903-1bf4-4a9e-84cb-5193b5a1ae1d,Partia Demokratike Dega Paskuqan,2023-05-05T06:51:11.048Z,17a08cb8-18f0-4a0e-a2bf-632cb452121d,PD,Albania,al,113720191358697,Partia Demokratike Dega Paskuqan,Facebook
-25b8b2a1-135c-497d-b74a-b73f06fc242c,Alfrida Marku - Dedgjonaj,2023-04-16T15:03:38.578Z,f31e2016-bfe0-4c6f-bf6a-0de2a18e7105,PD,Albania,al,853911828002202,Alfrida Marku - Dedgjonaj,Facebook
-5745f782-59c6-4161-987a-087765afac4c,Belind Këlliçi,2023-02-07T15:04:59.275Z,312c708a-2053-4773-8c4e-cf19c5a9cbce,PD,Albania,al,975204015836064,Belind Këlliçi,Facebook
-6a89f548-38eb-4a6a-943a-d83ae25b708e,Jorida Tabaku,2023-04-16T15:03:38.545Z,1db79596-91c7-40ee-b89c-6adcba806600,PD,Albania,al,543904035697566,Jorida Tabaku,Facebook
-84b9511e-a48b-45fa-a992-df8a3b9132ad,Bardh Spahia,2023-02-07T15:04:59.416Z,e37886e4-75c4-4695-a37c-1402194caebb,PD,Albania,al,497474187302750,Bardh Spahia,Facebook
-851d3b82-6c54-4279-9ea3-e9e966430fd9,Eno Bozdo,2023-03-24T10:51:32.631Z,908b28da-e636-4459-b514-bcd228884713,PD,Albania,al,103397012468814,Eno Bozdo,Facebook
 868289db-4d32-4447-be08-9c93a5a45efa,Partia Socialiste e Shqipërisë,2023-04-05T10:51:23.102Z,54df5128-f620-4ce9-9d74-e0d4b6511e32,PD,Albania,al,65903161692,Partia Socialiste e Shqipërisë,Facebook
+e01be833-6d12-4a57-a7b9-5fcef4e4501f,Partia Demokratike Dega Korçë,2023-03-19T10:51:20.972Z,e0e53092-bc6e-4c22-883f-b55fbcddc78f,PD,Albania,al,104865875523565,Partia Demokratike Dega Korçë,Facebook
 8f820c40-f95a-4387-8e49-43b30432c4a3,Sofije Kryeziu Alushaj,2023-04-10T10:50:54.872Z,ac9dcfd3-2bbd-42d3-ba97-5e2522db7b79,PD,Albania,al,104140849249455,Sofije Kryeziu Alushaj,Facebook
-93b501fb-da39-4307-97d2-306b8dd7e244,Atird Hoxha,2023-02-08T05:54:33.185Z,b012e2ba-301c-4a24-ae0b-bb35f325f3d9,PD,Albania,al,111067424397101,Atird Hoxha,Facebook
-9edd59ec-6b5e-4654-a93d-89634df48ba1,Taulant Zeneli,2023-05-14T06:51:17.376Z,049c817b-699c-41cb-9261-f6aad5dbea2a,PD,Albania,al,430053200698301,Taulant Zeneli,Facebook
+84b9511e-a48b-45fa-a992-df8a3b9132ad,Bardh Spahia,2023-02-07T15:04:59.416Z,e37886e4-75c4-4695-a37c-1402194caebb,PD,Albania,al,497474187302750,Bardh Spahia,Facebook
+4342701e-5679-4cca-b54b-caf5a6776e58,Vullnet Ruzhdi Sinaj,2023-02-07T15:04:59.425Z,76b8f68c-ba48-402b-b873-a03b21f87906,PS,Albania,al,1272430732865665,Vullnet Ruzhdi Sinaj,Facebook
+851d3b82-6c54-4279-9ea3-e9e966430fd9,Eno Bozdo,2023-03-24T10:51:32.631Z,908b28da-e636-4459-b514-bcd228884713,PD,Albania,al,103397012468814,Eno Bozdo,Facebook
+e6bc86cc-dd83-4c71-b6ee-81f844d632ce,Behar Haxhiu,2023-03-09T10:51:38.848Z,08756e2a-66cd-40b7-8d7e-750586f00abc,PD,Albania,al,110394928661453,Behar Haxhiu,Facebook
+9eafae43-74e7-4a6b-8c40-d089938f7835,"Partia Drejtësi, Integrim dhe Unitet",2023-02-07T15:04:59.393Z,b5e56e22-5f70-4afe-9771-62e09339a5b3,PDIU,Albania,al,284923454880724,"Partia Drejtësi, Integrim dhe Unitet",Facebook
+9e1eb7b9-186f-4245-918b-71fbe75bac89,Etjen Xhafaj,2023-02-07T15:04:59.445Z,07b28779-1d9b-4fce-9315-f7f2b139fc82,PS,Albania,al,114265903829452,Etjen Xhafaj,Facebook
 b67a86f2-81eb-47a9-960c-a7475349eaac,Klevis Balliu,2023-02-07T15:04:59.357Z,df9cd33e-fe85-410a-bfd8-bfef162bddde,PD,Albania,al,1789186294744514,Klevis Balliu,Facebook
 ba06402d-57fc-4ad1-80a1-dc5646ec8c7d,Partia Demokratike Fushe Kruje,2023-05-09T06:51:18.818Z,abf7b930-9a98-438c-8bff-e933d0e72247,PD,Albania,al,104280845996095,Partia Demokratike Fushe Kruje,Facebook
-c3cede89-826c-4fb1-9c56-c673fe5ec125,Arjan Hoxha,2023-05-06T06:51:35.982Z,1553aae8-8e54-45e6-ac20-61ad752c4b37,PD,Albania,al,100543289531078,Arjan Hoxha,Facebook
-c61fb10d-1b0d-4685-a822-88a4251c187a,Besnik Dushaj,2023-04-20T06:51:21.574Z,4ea75f8b-574e-44ec-81b1-beb3e49a4950,PD,Albania,al,102114922707998,Besnik Dushaj,Facebook
-e01be833-6d12-4a57-a7b9-5fcef4e4501f,Partia Demokratike Dega Korçë,2023-03-19T10:51:20.972Z,e0e53092-bc6e-4c22-883f-b55fbcddc78f,PD,Albania,al,104865875523565,Partia Demokratike Dega Korçë,Facebook
-e118c0ac-052b-49e2-b7e9-5915c6f8ca3e,Partia Demokratike Dega Tropoje,2023-04-24T06:51:22.982Z,9c85766b-e794-4c52-bc1c-df3fa71b2035,PD,Albania,al,349721191811615,Partia Demokratike Dega Tropoje,Facebook
-e6bc86cc-dd83-4c71-b6ee-81f844d632ce,Behar Haxhiu,2023-03-09T10:51:38.848Z,08756e2a-66cd-40b7-8d7e-750586f00abc,PD,Albania,al,110394928661453,Behar Haxhiu,Facebook
-f0ac4fdb-81c1-4dcd-a392-402eedee1528,Bashkë Fitojmë,2023-05-12T06:51:22.328Z,a4433998-0030-4cb1-a678-0ceaaf257959,PD,Albania,al,115670438130111,Bashkë Fitojmë,Facebook
-9eafae43-74e7-4a6b-8c40-d089938f7835,"Partia Drejtësi, Integrim dhe Unitet",2023-02-07T15:04:59.393Z,b5e56e22-5f70-4afe-9771-62e09339a5b3,PDIU,Albania,al,284923454880724,"Partia Drejtësi, Integrim dhe Unitet",Facebook
-bda3a4d6-c149-4738-a131-73a3a1de2c48,British Embassy Tirana,2023-06-05T06:51:28.702Z,bed69b0e-0da6-459f-985c-5916737edc28,Oth,Albania,al,967105923330395,British Embassy Tirana,Facebook
 d7ee848e-e3cf-4862-8070-d69b2870069e,Euronews Albania,2023-05-18T06:51:27.514Z,1231783d-7699-4312-b31e-6dcd21a35209,Oth,Albania,al,2422838357744176,Euronews Albania,Facebook
+9edd59ec-6b5e-4654-a93d-89634df48ba1,Taulant Zeneli,2023-05-14T06:51:17.376Z,049c817b-699c-41cb-9261-f6aad5dbea2a,PD,Albania,al,430053200698301,Taulant Zeneli,Facebook
+6a89f548-38eb-4a6a-943a-d83ae25b708e,Jorida Tabaku,2023-04-16T15:03:38.545Z,1db79596-91c7-40ee-b89c-6adcba806600,PD,Albania,al,543904035697566,Jorida Tabaku,Facebook
+8c4a3184-8852-413c-95dd-2d7ba6d0a0e7,Oltion Çaçi,2023-05-10T06:51:32.689Z,2c664f3a-e06c-45e6-a6d6-846b4e2a0595,PS,Albania,al,114190684953563,Oltion Çaçi,Facebook
+e118c0ac-052b-49e2-b7e9-5915c6f8ca3e,Partia Demokratike Dega Tropoje,2023-04-24T06:51:22.982Z,9c85766b-e794-4c52-bc1c-df3fa71b2035,PD,Albania,al,349721191811615,Partia Demokratike Dega Tropoje,Facebook
+cee7f23f-b3db-4f83-9f69-46598081b618,Erion Veliaj,2023-04-22T06:01:48.193Z,752470e3-3cc8-4395-bfad-2cff5c3ec387,PS,Albania,al,38316716925,Erion Veliaj,Facebook
+13cc8903-1bf4-4a9e-84cb-5193b5a1ae1d,Partia Demokratike Dega Paskuqan,2023-05-05T06:51:11.048Z,17a08cb8-18f0-4a0e-a2bf-632cb452121d,PD,Albania,al,113720191358697,Partia Demokratike Dega Paskuqan,Facebook
+863d1add-1d5f-4422-ac2b-f257f773034c,Emiriana Sako,2023-04-23T06:50:59.784Z,fbfc8074-bdc4-4979-9399-e3953dfebdec,PS,Albania,al,102575978326449,Emiriana Sako,Facebook
+c8a336e0-0a8a-469a-a8a7-a94f813f9af5,Sotiraq Filo,2023-05-11T06:51:52.394Z,c081d52e-b8a9-45b5-aeee-bd2a3b0d3f46,PS,Albania,al,559997054053389,Sotiraq Filo,Facebook
+a05c16e3-1484-4e27-b675-0e0d42434902,Oltion Çaçi,2023-05-13T06:51:22.459Z,52e0020e-4b83-4be4-8e95-e3c461eec11d,PS,Albania,al,107773732317350,Oltion Çaçi,Facebook
+93b501fb-da39-4307-97d2-306b8dd7e244,Atird Hoxha,2023-02-08T05:54:33.185Z,b012e2ba-301c-4a24-ae0b-bb35f325f3d9,PD,Albania,al,111067424397101,Atird Hoxha,Facebook
+0310e8d8-bb9d-4168-a61e-63bacf4c8e41,Bujar Leskaj,2023-02-23T10:51:35.384Z,c9cd58d5-7b4d-428b-b698-01870590d2c6,PD,Albania,al,101027901869135,Bujar Leskaj,Facebook
+25b8b2a1-135c-497d-b74a-b73f06fc242c,Alfrida Marku - Dedgjonaj,2023-04-16T15:03:38.578Z,f31e2016-bfe0-4c6f-bf6a-0de2a18e7105,PD,Albania,al,853911828002202,Alfrida Marku - Dedgjonaj,Facebook
+c3cede89-826c-4fb1-9c56-c673fe5ec125,Arjan Hoxha,2023-05-06T06:51:35.982Z,1553aae8-8e54-45e6-ac20-61ad752c4b37,PD,Albania,al,100543289531078,Arjan Hoxha,Facebook
+f0ac4fdb-81c1-4dcd-a392-402eedee1528,Bashkë Fitojmë,2023-05-12T06:51:22.328Z,a4433998-0030-4cb1-a678-0ceaaf257959,PD,Albania,al,115670438130111,Bashkë Fitojmë,Facebook
+5745f782-59c6-4161-987a-087765afac4c,Belind Këlliçi,2023-02-07T15:04:59.275Z,312c708a-2053-4773-8c4e-cf19c5a9cbce,PD,Albania,al,975204015836064,Belind Këlliçi,Facebook
+c61fb10d-1b0d-4685-a822-88a4251c187a,Besnik Dushaj,2023-04-20T06:51:21.574Z,4ea75f8b-574e-44ec-81b1-beb3e49a4950,PD,Albania,al,102114922707998,Besnik Dushaj,Facebook
+bda3a4d6-c149-4738-a131-73a3a1de2c48,British Embassy Tirana,2023-06-05T06:51:28.702Z,bed69b0e-0da6-459f-985c-5916737edc28,Oth,Albania,al,967105923330395,British Embassy Tirana,Facebook
+833426ba-9ea1-423a-b2a9-a47f688bc5ef,Edona Bilali,2023-03-08T14:49:08.034Z,87c70f4a-bf14-4e7f-9bfa-148c14a2e258,PS,Albania,al,266680836863255,Edona Bilali,Facebook
+a3e148ad-fe28-4bd6-8ca5-6322e91c124d,Obilpure,2023-09-02T05:05:20.950Z,c34fd49e-74a0-4e87-af2c-4468a79455ca,ZZZ,Albania,al,114707635057965,Obilpure,Facebook
+a599dd96-da9f-454c-a0a6-b5522b453ce7,Ep-018,2023-08-11T05:07:36.160Z,472e2650-0f32-456e-9f45-569f85620a89,ZZZ,Albania,al,110783981986514,Ep-018,Facebook
+392e0e72-52c1-4a3d-99a0-4af93bff88eb,Oltregiogo Piano Competition,2023-08-12T05:06:11.145Z,1de80d81-3947-4cf7-a956-e6e2679d0acd,ZZZ,Albania,al,114056385017023,Oltregiogo Piano Competition,Facebook
+339d441f-c6d3-41bc-b677-b48e24716d86,EUFIC - European Food Information Council,2023-02-14T10:51:30.437Z,35195592-93ea-491f-8428-ca72a2ea8269,ZZZ,Albania,al,154808901261377,EUFIC - European Food Information Council,Facebook
+251f44ea-16fd-4599-a010-886ff96bc3bf,Genetic Systems,2023-02-19T10:51:46.017Z,bcf4437c-3602-42c9-ab5e-338c15833e41,ZZZ,Albania,al,104067812304113,Genetic Systems,Facebook
+74be1665-f0db-4c5e-afa2-b00c24bd3d74,Excitees.JPN,2023-09-08T05:05:27.892Z,44ce63b1-dbf2-43b4-8de4-5963f075fb2e,ZZZ,Albania,al,100713139797452,Excitees.JPN,Facebook
+167db67e-c2cc-47cc-950a-063c840f878c,Handmodas,2023-11-29T05:05:22.082Z,30dc2f21-a75d-4bf6-8c5b-4a0eebb9961f,ZZZ,Albania,al,153638101170769,Handmodas,Facebook
+32038d00-6e1e-4f53-ba5d-b94907b15941,Info24.al,2023-02-21T10:51:27.612Z,031df0b5-6dd9-428b-be26-b482748cfa48,ZZZ,Albania,al,102314315806888,Info24.al,Facebook
+34d0957e-468e-414e-afc4-ed1fac5a5e95,Кроссовки в Чернигове,2023-02-26T10:51:37.823Z,4ecaeee0-b38a-44b3-a3cf-18aca8dc08c6,ZZZ,Albania,al,180089149250353,Кроссовки в Чернигове,Facebook
+2236857f-bf48-4216-a034-eb18cda79a23,vibelounge.io,2023-08-02T05:06:06.105Z,9235db98-4bc0-4598-b466-b097a2f6639b,ZZZ,Albania,al,106331565862003,vibelounge.io,Facebook
+055b9676-fd7e-491b-b57d-4f5acd310045,TCP Europe Pageants,2023-10-26T05:05:22.371Z,2cfec5b8-5e25-4cea-9581-2954fad66d21,ZZZ,Albania,al,108231928962220,TCP Europe Pageants,Facebook
+a8d24984-1fa4-48b1-ab6b-cd53d620188f,ASAR Legal,2023-12-01T05:05:32.268Z,f2856b18-2644-4a11-9f90-99322ddd5162,ZZZ,Albania,al,108239275208859,ASAR Legal,Facebook
+a8448223-98ca-4c1e-9d80-cae6b6a1ad1c,Av. Alfons Pecaj,2023-03-08T17:52:24.133Z,4f2e4301-a3a3-44d3-895a-1f9b4975c4d0,ZZZ,Albania,al,220928111790608,Av. Alfons Pecaj,Facebook
+52445ac9-444c-4db6-9116-263ba1042ad0,Postcards from Ukraine,2023-08-13T05:06:23.913Z,4aeda523-9c7e-40a8-ba3a-689bee628d57,ZZZ,Albania,al,109416758736238,Postcards from Ukraine,Facebook
+4318b52d-9671-496d-8b7d-4fb2473d83c7,Global Patient Services at Sheba Medical Center-Tel Hashomer,2023-12-01T05:05:32.222Z,1df576ed-52f0-42fc-9072-7884025b0f13,ZZZ,Albania,al,522807681519309,Global Patient Services at Sheba Medical Center-Tel Hashomer,Facebook
+5450634f-7915-4105-9a7a-96fa770b2cbc,Miss Spinner 2023,2023-11-01T05:05:24.697Z,d2c47f45-6f2e-42de-b15f-f84d98f14aa9,ZZZ,Albania,al,101901762911269,Miss Spinner 2023,Facebook
+e00ea017-e53e-4648-8f9d-789403cc086f,Qazi Fazl Ullah Advocate,2023-09-23T05:05:24.897Z,dbd50d15-d436-491d-b7aa-408a2fbe51aa,ZZZ,Albania,al,489037644584067,Qazi Fazl Ullah Advocate,Facebook
+6e4acf0d-cba2-4722-87ba-3ae7e83ad6c4,rozafafishcitymaliq,2023-11-28T06:14:57.178Z,8cfb5cb4-3bcc-4ed1-85e3-b7ca6cf6a128,ZZZ,Albania,al,181944381663866,rozafafishcitymaliq,Facebook
+314ddcf9-b114-455e-a307-78e2248a22ce,Falstaff Living,2023-04-28T06:51:11.177Z,63ed36a2-54f0-4878-899e-b781ac959410,ZZZ,Albania,al,141000842608491,Falstaff Living,Facebook
+023d1559-c11f-49e5-b2e3-4d88c471aa7c,Young Friends of the Earth Europe,2023-04-20T06:51:21.597Z,f93cb98b-fb82-450e-bf9a-3e4584414007,ZZZ,Albania,al,134972349915670,Young Friends of the Earth Europe,Facebook
+d70bcb1d-2b35-46a2-b25f-046f52f9615c,Cloud & Cyber Security Expo Paris,2023-10-27T05:05:43.928Z,ad6028e9-e269-491b-9f0b-13659a7d6b53,ZZZ,Albania,al,205524003611707,Cloud & Cyber Security Expo Paris,Facebook
+f5c8650b-55dc-4184-afe2-a28f00aa56fd,Solgas Energy,2023-12-05T05:05:28.515Z,ad4b1778-cd84-4216-931c-34559e2de710,ZZZ,Albania,al,168473399675260,Solgas Energy,Facebook
+9cbaebe8-766b-444c-b20f-6e2e84b71f6a,heqje_ekspulsi__verifikim,2023-03-08T17:41:49.996Z,83b5656e-cfb8-4c2d-86a9-49d6716f88d4,ZZZ,Albania,al,104872432506834,heqje_ekspulsi__verifikim,Facebook
+95d6588e-6887-4aba-8ed4-982c29a91eaa,Millet Man of Telangana,2023-11-28T06:14:57.182Z,d7e15263-5da3-40d8-aa61-f07462eb819b,ZZZ,Albania,al,167369659796397,Millet Man of Telangana,Facebook
+f369eed8-9b7c-4edb-b0db-0d411b3b52fb,Medthority,2023-06-19T18:23:22.552Z,a74d0c7d-617d-45c2-82f3-f81b18e498e1,ZZZ,Albania,al,101607198167304,Medthority,Facebook
+c5a00468-7170-4296-8e87-0854f29bc23b,Afro Nation,2023-07-09T06:06:41.384Z,315e545c-6be3-40e0-a33e-0649dadd7132,ZZZ,Albania,al,376317369783170,Afro Nation,Facebook
+1d6c7ccf-fe46-4a6c-bd46-a4153d51325e,DoFasting,2023-10-20T05:05:19.312Z,c19aa658-cf06-4981-8097-06d0c527e111,ZZZ,Albania,al,1982725235124547,DoFasting,Facebook
+6ab23389-d7b7-4495-90ac-b0261f8e809e,Ing. Genti Xhetani,2023-10-22T05:05:26.708Z,29479b2b-cf56-42d6-a020-68e3acd890ce,ZZZ,Albania,al,112428224406485,Ing. Genti Xhetani,Facebook
+57ec701e-21df-4baf-9962-fed19cb8a630,green mandarin,2023-09-22T05:05:21.594Z,07342f13-18b7-4e5a-b808-07ddf1151e45,ZZZ,Albania,al,321636438479257,green mandarin,Facebook
+2753e958-1e41-4aac-aaf9-77cf0cc0fb8f,The Artist Academy,2023-09-02T05:05:20.954Z,72baf348-c143-4427-b2ce-2aa07d3de208,ZZZ,Albania,al,1787213737975912,The Artist Academy,Facebook
+47db98b4-4b89-42da-ba3b-ab3d5bb29b5a,Asean+3 Macroeconomic Research Office,2023-02-10T10:51:38.474Z,abd53dd0-710e-470e-84d8-9636b0268404,ZZZ,Albania,al,157219929419666,Asean+3 Macroeconomic Research Office,Facebook
+00d59b7e-4e65-4b00-b196-d77952ba6d18,Ars Electronica,2023-08-12T05:06:11.159Z,6822bc67-3e64-48bc-aa53-610b7a112c2c,ZZZ,Albania,al,55661199917,Ars Electronica,Facebook
+00531216-dbe4-4107-8070-3cb37ccbbeef,Avokate Ersida Smeli,2023-02-17T10:51:21.929Z,a371942c-5cbe-40ac-9444-22864584503f,ZZZ,Albania,al,108576988548449,Avokate Ersida Smeli,Facebook
+dc1a5792-22dc-4b80-b98a-821e2baca734,Smart Finance Freedom,2023-07-17T09:58:18.584Z,e45e4533-5e18-4de3-8f17-46e6bb656daa,ZZZ,Albania,al,117853811622650,Smart Finance Freedom,Facebook
+e5b3119f-4304-429c-80f1-3d422eb16f1f,"People's Daily, China",2023-08-19T05:06:13.271Z,6f14c099-8172-4214-812e-8ac33aa610be,ZZZ,Albania,al,188625661189259,"People's Daily, China",Facebook
+bb4fec02-9149-4476-a499-881395151873,VuPlex,2023-07-24T05:05:58.644Z,f8d1881e-6918-43f7-b033-409001d3ea53,ZZZ,Albania,al,406105696083331,VuPlex,Facebook
+ab094323-f005-41ad-a7a8-95952a3f5429,Sweettatt Balm,2023-02-24T10:51:33.656Z,33ee96fd-3e20-4580-9038-cc1181b22ffa,ZZZ,Albania,al,581045078625669,Sweettatt Balm,Facebook
+fe792083-526c-4b86-8486-6ca7b5e42ac7,barisergin,2023-03-02T10:51:30.754Z,85334cc2-83a9-4d09-8aca-15229aae3134,ZZZ,Albania,al,103222502613945,barisergin,Facebook
+b92d84ba-9212-4e91-ba9f-916b1b388dae,Global Glimpses,2023-11-11T05:05:07.299Z,5d24120d-ff76-4127-8848-ccb22b5dd88e,ZZZ,Albania,al,100920733110650,Global Glimpses,Facebook
+305e265d-fa64-4f36-8db5-f5fb77aac5cd,Sparkloworld,2023-11-12T05:05:30.764Z,7396a3a6-fed4-4252-83b9-d877de35f384,ZZZ,Albania,al,111425141958605,Sparkloworld,Facebook
+6f0763f8-45c9-438a-b0c4-ce7367e39b71,Entoneyo's Way School,2023-11-10T05:05:14.854Z,2247550c-6da2-473d-acbb-331488e3e646,ZZZ,Albania,al,1825921937430191,Entoneyo's Way School,Facebook
+142e0a70-34fe-4df8-8edc-84cd4566ee4b,Itä-Suomen yliopisto - University of Eastern Finland (UEF),2023-10-29T05:05:42.285Z,37e1ae53-ce53-4126-a0f0-9f3be6be1386,ZZZ,Albania,al,153759051378784,Itä-Suomen yliopisto - University of Eastern Finland (UEF),Facebook
+6ee62926-2b32-42c0-97ea-004393581171,secret__youth,2023-07-22T05:06:14.575Z,ec69f10b-7f3d-4757-9a25-e01305837580,ZZZ,Albania,al,120188694335111,secret__youth,Facebook
+457d5719-c9d4-4c08-82e5-0d980184bfa3,Qzino,2023-10-30T05:05:19.155Z,d88b75b8-f2db-4219-8c3e-003a077ef46e,ZZZ,Albania,al,270524886818258,Qzino,Facebook
+498b1a1f-2fc6-479e-9bb2-d32c405b52c4,Trip.com Train EU,2023-11-17T05:05:14.590Z,9702291e-94ee-4563-8b0c-c6479fc2d035,ZZZ,Albania,al,110236145333383,Trip.com Train EU,Facebook
+7da20c65-9ebd-47f6-a208-f25a9a6fb0f2,Bates College,2023-09-17T05:05:16.591Z,1ed958fe-95cd-4fba-9651-f0738a86488d,ZZZ,Albania,al,6177010821,Bates College,Facebook
+e8c3a221-8c54-45ad-b39f-1258598b6cc4,Super Master,2023-04-27T06:51:21.055Z,5b8acc0d-8bf3-4535-9366-0939b231e7ee,ZZZ,Albania,al,117697811288537,Super Master,Facebook
+9e293b70-6d28-4017-955a-145594f100a7,Aisling AI,2023-04-19T06:51:20.375Z,f93b7a77-1dca-40ce-a0f2-810c3c50057e,ZZZ,Albania,al,115157034796408,Aisling AI,Facebook
+62c48ce0-fa98-42c9-868c-1f3fc4e7791c,Cam Translator,2023-09-12T05:04:52.869Z,8e5f7233-67c0-47b3-81b8-d473325b81d0,ZZZ,Albania,al,112313091253376,Cam Translator,Facebook
+1839384d-ab82-4459-9027-c7fe090153d7,yusufhanugurlu_yasasin,2023-07-05T06:05:41.500Z,50dd05a1-7d65-43e8-b6a8-2e13c03bd5d6,ZZZ,Albania,al,103765239208275,yusufhanugurlu_yasasin,Facebook
+5700d0b6-27ba-4a03-b1ea-eb7fd0a15ee0,reverieconsulting.co,2023-12-05T05:05:28.515Z,c713c239-6226-42ec-8fad-d17b0c0ae557,ZZZ,Albania,al,102391754988491,reverieconsulting.co,Facebook
+5894f0ea-439d-40d6-bad6-5f869fb1ddf2,EcoAlbania,2023-11-18T05:05:26.931Z,eac1de04-2efc-4770-a091-144204ade127,ZZZ,Albania,al,769579023123012,EcoAlbania,Facebook
+20409c7e-ea8c-48db-a60e-5c93b4622577,Lương Y Phạm Văn Thanh,2023-10-24T05:05:21.781Z,db17dd23-353a-404f-a841-8f8e128be420,ZZZ,Albania,al,105314598888268,Lương Y Phạm Văn Thanh,Facebook
+6f294739-e71f-49a8-991f-3c168af60d44,Sungtaz world,2023-06-23T05:15:11.916Z,c58710d4-8143-4fec-9268-e59c0e2a3744,ZZZ,Albania,al,105018298224232,Sungtaz world,Facebook
+5fc1ccfe-7f3f-47d4-be76-c91b7cf3c945,History Chronicle - Images,2023-11-07T05:05:23.381Z,062e5c11-5ae5-44f6-a928-63aa751e132d,ZZZ,Albania,al,100349618682803,History Chronicle - Images,Facebook
+ed5c53cd-92e5-4031-9b75-0766ae9940c0,tina.kassabian,2023-11-09T05:05:17.455Z,1c600209-2c11-401b-b9b8-3279f74a7f2e,ZZZ,Albania,al,101789259337003,tina.kassabian,Facebook
+40e95ada-fef6-442d-b544-baf4e013c022,中華頭條,2023-06-10T06:51:17.483Z,284d1b2d-e297-4c45-b53b-787cadd014e4,ZZZ,Albania,al,882109518613704,中華頭條,Facebook
+532502f2-76f4-4612-95e6-e81b40612d03,Secret Youth,2023-09-04T05:05:22.986Z,6c4d8541-ff27-47fb-808b-9dbdcddb924b,ZZZ,Albania,al,120209980999093,Secret Youth,Facebook
+a2747436-eaea-4423-9512-be4d9f6b0829,Côte d'Azur - школа французької мови,2023-06-13T06:51:29.683Z,7d11283b-ab58-445b-bf13-7e9eb4f1cf63,ZZZ,Albania,al,1505333196415332,Côte d'Azur - школа французької мови,Facebook
+9170e150-ac83-4d22-abc9-33430e332baa,Einfach München,2023-11-18T05:05:26.974Z,c79fd300-a2ef-4f6f-9588-c88103e158f3,ZZZ,Albania,al,399645190384793,Einfach München,Facebook
+6c2d8465-eaea-42a4-b1c0-643a95cc7388,The Times of Israel,2023-07-06T06:05:52.110Z,ac20cd45-d2fd-4d0d-ab95-0c56b12cf162,ZZZ,Albania,al,151159641657421,The Times of Israel,Facebook
+e0885c3f-0997-4050-8657-a0245fa71c7f,Block Puzzle Game,2023-06-11T06:51:15.369Z,2e33ccb7-4aa6-4b97-8195-2da16db2e7db,ZZZ,Albania,al,101686349003280,Block Puzzle Game,Facebook
+d6cbce5d-9b05-44b8-beaf-c6f0f6b017dc,bicibekim,2023-08-11T05:07:36.130Z,e5dea1a3-a4f6-4d9a-b6e1-7903eb5385ee,ZZZ,Albania,al,109974358413959,bicibekim,Facebook
+c55fe88d-d7c2-47e6-9e8d-c17017e9945a,Instituti Noli,2023-02-07T15:04:59.373Z,d838b3a8-03d1-4a3e-8ad3-5a66935038fd,ZZZ,Albania,al,102884679119977,Instituti Noli,Facebook
+29f5ad7b-9cbb-4584-8ef6-0f5e9b604c95,Olarglscal-fox,2023-08-12T05:06:11.156Z,156aab16-a350-47d3-a3e1-d998b2779e9c,ZZZ,Albania,al,108276258909021,Olarglscal-fox,Facebook
+7ceb7656-719b-4ec4-8eb8-5948ddc2efd0,IDC CEE,2023-02-14T10:51:30.437Z,56712155-f482-4add-8577-030cb5268caf,ZZZ,Albania,al,566922500122212,IDC CEE,Facebook
+bf05c45c-ae7d-4eb7-a434-a7c3e500d664,Levizja Rinore Egjyptiane & Rome,2023-11-26T05:05:25.439Z,ae04deaf-7403-45b1-8176-d53a9dd96e67,ZZZ,Albania,al,1468693893397918,Levizja Rinore Egjyptiane & Rome,Facebook
+40d7a392-bd7d-4c63-851b-688410fb0fff,CTSOE Burundi,2023-09-08T05:05:27.915Z,d9e3269e-ec88-43c0-8abf-45c4ad67ab66,ZZZ,Albania,al,107162277992090,CTSOE Burundi,Facebook
+5909b1d6-23f2-493f-8c88-0e8c62877992,Enzo Attini.al.jewelry,2023-11-29T05:05:22.035Z,21557c9f-369c-4f0f-9029-bd86b778db52,ZZZ,Albania,al,163246556874235,Enzo Attini.al.jewelry,Facebook
+1908c6bf-9fe9-413f-9981-369188892d51,GE HealthCare,2023-02-21T10:51:27.618Z,9860e32e-9dc6-44e3-83a3-cd92b592ee2a,ZZZ,Albania,al,126472130743436,GE HealthCare,Facebook
+91a75f01-3051-4bd3-b217-15f3857884f6,Mollaei Law,2023-02-26T10:51:37.799Z,8267bdcb-2dcc-49ae-a69b-12898c4e4b2c,ZZZ,Albania,al,167327710092323,Mollaei Law,Facebook
+3c292f54-35c3-4778-8207-f1ce4916bbbd,Success Resources,2023-08-01T05:06:11.782Z,7f135ba4-1fa2-4be2-bbc5-d186a7e5368d,ZZZ,Albania,al,550751965021284,Success Resources,Facebook
+a8daf346-aaa6-4718-950d-1ba9639ef9d9,Kitsch,2023-10-26T05:05:22.335Z,d20b6e6c-c158-4277-84c1-8e7e0690bc1e,ZZZ,Albania,al,362556690454305,Kitsch,Facebook
+13373fb3-320c-4863-9639-640f97e84887,Touro Berlin,2023-12-01T05:05:32.245Z,d7ae80a5-6969-49a1-8db2-85309f9c7f81,ZZZ,Albania,al,104391159645828,Touro Berlin,Facebook
+4c132de1-8721-480e-a4eb-2716bc43e447,LiT,2023-12-07T05:05:21.589Z,c00e71da-f9f6-4c03-b590-2bb00547a114,ZZZ,Albania,al,1542959742426755,LiT,Facebook
+162ecce7-73a2-4e51-98c6-14e00baa380a,Alfapress.al,2023-03-08T18:46:11.069Z,e1c7dbc8-f32c-4588-9bb7-4b39c7632a6f,ZZZ,Albania,al,109002281604804,Alfapress.al,Facebook
+9fa56369-5a80-4559-b688-92449b476d05,Osaka YMCA Global Department,2023-07-23T05:06:25.137Z,81c2737c-119c-4012-b783-8b76d0a6b791,ZZZ,Albania,al,447119588697072,Osaka YMCA Global Department,Facebook
+e3798518-6221-4f49-919a-61a2a9d9027e,,2023-03-31T10:51:33.105Z,a0336bd2-91dd-4f41-a3c9-63d87c6a9c12,ZZZ,Albania,al,120438954330704,,Facebook
+b4e0b2c0-a911-4f52-94e1-19dea1dac863,villagegreen.studio,2023-08-27T05:05:23.181Z,57e5cb18-6b5a-4ae4-a0d4-cef4f912c82b,ZZZ,Albania,al,110053874785893,villagegreen.studio,Facebook
+f65525fc-6211-4f6c-891d-44c715eb2a3f,Adelaide 49353,2023-10-16T05:05:24.924Z,c1b48db1-e8de-4751-833e-eb22865836b4,ZZZ,Albania,al,122108310116000739,Adelaide 49353,Facebook
+a0d75125-121a-4102-ac59-a959d8dc88e7,C301-29,2023-04-11T10:51:14.758Z,915e13fe-2752-4630-99e5-1ca2a78171a1,ZZZ,Albania,al,117329984641743,C301-29,Facebook
+cc87501d-b834-480e-b090-a65ce787e94e,Arik Hart Books,2023-11-29T05:05:22.057Z,33f9e0e5-de61-4b4a-99a2-67faf2811be3,ZZZ,Albania,al,115637428285397,Arik Hart Books,Facebook
+8aa4a3d1-a510-46fc-aaaa-34464f3c38ff,Balkan Investigative Reporting Network,2023-03-01T10:51:27.524Z,f5130b15-e719-4479-97e7-5dca123a6e4d,ZZZ,Albania,al,1520560824861065,Balkan Investigative Reporting Network,Facebook
+3f806639-d5b4-49d2-9fa8-726f59c4e9ea,Shopee Cart PH,2023-10-19T05:05:21.908Z,3dc30ec9-1f6b-4db7-ade6-8c63f7751e67,ZZZ,Albania,al,102272782980480,Shopee Cart PH,Facebook
+102fcf0a-6063-40e1-8633-aaf05f068506,China.org.cn,2023-11-13T05:06:14.099Z,989feb29-b7a5-4f7a-b78a-bc5572bc14ce,ZZZ,Albania,al,152362801582819,China.org.cn,Facebook
+f77cc0cb-2edb-49da-80c2-660ba9b6c67e,4kickerz,2023-09-23T05:05:24.898Z,6c6e9612-c7a1-41ad-be0c-84f50f49a3e0,ZZZ,Albania,al,768810670141239,4kickerz,Facebook
+6c4b8673-97c8-4b9e-a56e-4dbfa7b0cde2,Process Excellence Network,2023-06-19T18:23:22.533Z,1ab15fc7-68c5-4825-bd51-122cdf89a2f4,ZZZ,Albania,al,170947736281201,Process Excellence Network,Facebook
+763a57ac-f2da-4876-9ce0-2f4b8042229e,Live Aqua Beach Resort Cancun,2023-07-09T06:06:41.380Z,f60d2833-386d-4fff-b913-8a8fdef30f4c,ZZZ,Albania,al,138457552871898,Live Aqua Beach Resort Cancun,Facebook
+c908348f-6b25-404c-a263-8b418cc25bb0,The Ancient World Reimagined,2023-10-20T05:05:19.356Z,06b5ac56-7d20-4cdb-94c5-e428748bf7a2,ZZZ,Albania,al,111040145230363,The Ancient World Reimagined,Facebook
+fdd91f02-9293-4317-806c-107c0e2a0c04,Atlantic Fellows for Social and Economic Equity,2023-11-09T05:05:17.477Z,a9f0d39f-d729-4c7c-8bc0-a77b56aa881e,ZZZ,Albania,al,634185290326367,Atlantic Fellows for Social and Economic Equity,Facebook
+c8faecb8-a054-472c-a411-1e4768a6298e,Online Cybernetics,2023-09-02T05:05:20.939Z,b65e0981-e5e9-4bb4-82e2-8fb6b1802c66,ZZZ,Albania,al,102399729340542,Online Cybernetics,Facebook
+5826fedd-368f-437a-bdc5-aef9976b9526,First Wala,2023-05-23T06:51:20.605Z,73bf7abd-fff9-43a6-9a22-e95fc61c3da3,ZZZ,Albania,al,117052698001766,First Wala,Facebook
+f793b207-c70e-475b-86db-c9405b37ec52,Web Summit,2023-11-20T05:05:39.146Z,66577ac9-24ce-4c4d-a9bf-1efa0dd73487,ZZZ,Albania,al,294067420659309,Web Summit,Facebook
+8fa94efc-647c-4564-80c2-0736b23e506f,Weifang Moment,2023-06-12T06:51:13.782Z,124edc1a-75e7-42a6-bb7e-799590b2b3a9,ZZZ,Albania,al,116261421370057,Weifang Moment,Facebook
+2367bac5-f370-4453-b386-32841b057122,Creative Mind States School,2023-08-10T05:06:11.925Z,49539cc1-bb55-4976-805b-63b0d65f0da8,ZZZ,Albania,al,104953585732597,Creative Mind States School,Facebook
+9797567b-8f85-4a0b-96e4-fb972ee71200,Friends of Palestine,2023-02-07T15:04:59.482Z,cca89677-e500-4cc4-b727-a0f7e449d817,ZZZ,Albania,al,109256524011547,Friends of Palestine,Facebook
+dd1a312d-6d32-4f65-b59f-9894bccc0b47,Honda hornet sicilia,2023-08-12T05:06:11.146Z,01eb575c-dc30-4de4-8d81-3648b92f7b19,ZZZ,Albania,al,264110481145357,Honda hornet sicilia,Facebook
+f2535ef9-343b-4eb2-8baa-63f57ad73a37,Construir CINE,2023-02-14T10:51:30.452Z,27be4c9c-9d0a-414d-a12e-bd10bab5269e,ZZZ,Albania,al,165736370290121,Construir CINE,Facebook
+ab4fe3f2-d69f-4873-9093-77f98d2b2c88,Stoked&Woke Clothing,2023-11-26T05:05:25.445Z,b194e2aa-82e4-44d2-8149-707bce36f968,ZZZ,Albania,al,104230201296909,Stoked&Woke Clothing,Facebook
+313d92dc-d9b7-447e-824f-a02a5cb7c0de,Dominique Alves,2023-09-08T05:05:27.919Z,55587bbd-a6c4-4c20-8cd8-42adbae7cf89,ZZZ,Albania,al,107793425628824,Dominique Alves,Facebook
+a4e41a27-bc84-4a77-9b3f-dd5567ffba9e,SARAJEVO FILM FESTIVAL,2023-07-23T05:06:25.151Z,fec1b9a9-cb8f-48ea-9585-2cc242806dd9,ZZZ,Albania,al,60995582231,SARAJEVO FILM FESTIVAL,Facebook
+30e1fe44-cfe0-47ec-ae56-fea0de98e77d,Universiteti Metropolitan Tirana,2023-02-24T10:51:33.619Z,b184ebf3-d806-4d61-96c9-2cd553e33de3,ZZZ,Albania,al,196137023776652,Universiteti Metropolitan Tirana,Facebook
+c0f8d3af-d8e1-4c3b-b567-f833d8ad6c0d,Samir Al-Rifa'i سمير زيد الرفاعي,2023-03-03T10:51:30.860Z,99b1c39a-d249-466d-8a6c-3dfd4aad8acf,ZZZ,Albania,al,381939052008221,Samir Al-Rifa'i سمير زيد الرفاعي,Facebook
+8bca076f-b8bd-4445-ac22-7ecb813761e5,KRONE Trailer,2023-11-11T05:05:07.281Z,33e8acaf-9f0c-4df0-bb37-bb5835e885dc,ZZZ,Albania,al,174558225923716,KRONE Trailer,Facebook
+acc45f97-78c3-42e4-8d88-351d548f0157,Gamersdailylife - magazine,2023-10-26T05:05:22.405Z,e021f9e2-c875-40c9-b64e-871e69d621a0,ZZZ,Albania,al,102726985835779,Gamersdailylife - magazine,Facebook
+e52a08d2-ab40-4bee-889d-952277278730,Mexhlis,2023-03-08T16:28:45.507Z,4ee8cccb-7e14-4640-be98-2ec5c2e125a8,ZZZ,Albania,al,107867387356603,Mexhlis,Facebook
+64120f42-fbbe-4f15-866a-1bd8404e4da8,Aulisa Studio Ligjore / Aulisa Law Firm,2023-03-08T18:03:39.520Z,4425e0b1-ec3c-4535-b7fe-84089af719ea,ZZZ,Albania,al,101267821764805,Aulisa Studio Ligjore / Aulisa Law Firm,Facebook
+1e12beec-6dc5-4fb0-8dc0-d069ed03dded,Patriot Apparel,2023-08-17T05:05:05.382Z,bbe3472b-1be3-443b-a439-10c7b9cb0d40,ZZZ,Albania,al,122099532938009325,Patriot Apparel,Facebook
+699cd3fc-1fbf-451e-8752-87d5b8c3c95b,Hallo-YYDS,2023-10-29T05:05:42.281Z,71355ace-7f64-4389-9f41-885512565e86,ZZZ,Albania,al,140000202534274,Hallo-YYDS,Facebook
+017f980b-7f9c-475f-a738-9b35a24ad9e7,Den Jyske Podcast,2023-11-17T05:05:14.633Z,22e49c68-2eae-4855-8e4b-6857944c9fa4,ZZZ,Albania,al,112423471924014,Den Jyske Podcast,Facebook
+4b38e527-46a5-4e6f-a636-8e3c470fe155,Tasteful ced5,2023-09-17T05:05:16.538Z,182abe10-46ea-4f4c-844c-fc96b8a8ab2b,ZZZ,Albania,al,107225045701074,Tasteful ced5,Facebook
+9b9bfd24-24a5-4fb3-ba72-ec99033f4731,Volvo Penta on Land,2023-04-21T06:51:30.527Z,0e424ac3-0cd1-4b38-9bd2-d433bd978b4d,ZZZ,Albania,al,102912091863686,Volvo Penta on Land,Facebook
+65214f52-92f6-4645-ae2c-839cdb21d503,Ywj-052,2023-04-16T15:03:38.635Z,a360652d-a1e6-4916-95aa-a80b630bd478,ZZZ,Albania,al,127223393628282,Ywj-052,Facebook
+c983ac11-52cb-4c81-bd25-e52b37a47253,F & F Legal Consulting,2023-09-12T05:04:52.835Z,34ce5afa-a580-49c5-9944-77856512a3eb,ZZZ,Albania,al,101923262464468,F & F Legal Consulting,Facebook
+33901af0-daf9-45e3-a363-9ab3d48af117,Happy Mammoth,2023-07-05T06:05:41.495Z,ab74afd6-426f-44b1-bc80-5ad4bb26c846,ZZZ,Albania,al,1343771369029582,Happy Mammoth,Facebook
+325c13c7-3edf-4383-ba7a-3b9ccba9b97f,DNV - Maritime,2023-12-05T05:05:28.566Z,32bced2c-925f-4fbe-aeeb-64c884dbe630,ZZZ,Albania,al,177278502363359,DNV - Maritime,Facebook
+97e9d0c3-369e-4ff8-a178-22c621516ff3,Ejani Studio,2023-04-25T06:51:07.727Z,f8e956a2-6362-45d2-b6d5-fe1905013943,ZZZ,Albania,al,115623520139162,Ejani Studio,Facebook
+77f61697-53d2-482d-9c20-ce6a3ecf406a,Gronze.com,2023-06-15T06:51:25.560Z,515def3f-10b9-4054-b602-45c4a178cebc,ZZZ,Albania,al,165923063431030,Gronze.com,Facebook
+690b2061-47cd-4b6f-bfad-50ce5e7965ef,Summit of First Ladies and Gentlemen,2023-09-01T05:05:20.323Z,4ce57f71-57c1-4392-8ca8-5a6939e04755,ZZZ,Albania,al,104696876043118,Summit of First Ladies and Gentlemen,Facebook
+ecaf9eac-e32b-4b52-9208-216ae21b609e,Spotlight Buzz,2023-11-07T05:05:23.398Z,2b29cb7d-8a96-400b-8eba-100d6caa3cfd,ZZZ,Albania,al,114588754561600,Spotlight Buzz,Facebook
+19986a5b-212b-4d98-bf4e-4df0da85c12b,Compensair,2023-05-29T06:51:16.879Z,61f57609-4958-4b7a-96b2-1d99d56bfa45,ZZZ,Albania,al,1665525507034508,Compensair,Facebook
+257e8f7d-34c0-4b0e-a117-985a23cf8be9,Online bookstore,2023-06-10T06:51:17.536Z,29003a16-bf8f-43e6-bef2-0e1c41340d83,ZZZ,Albania,al,103895358376172,Online bookstore,Facebook
+417382c7-4c7a-4f5d-a9f9-fc2787a6b828,Innovation Nest,2023-09-04T05:05:22.982Z,5549c017-4a1e-4ece-8eea-e2b57962b1f7,ZZZ,Albania,al,1093536290785464,Innovation Nest,Facebook
+60dadeac-5a34-42ec-a7cc-90b57aa3ea5f,Alma Edizioni,2023-06-13T06:51:29.639Z,2e0941f2-01c3-4873-a65a-f16377b4926b,ZZZ,Albania,al,189570767765273,Alma Edizioni,Facebook
+b0f8446d-371a-445d-ab1c-2fdb23be8a5a,Arumun,2023-11-18T05:05:27.017Z,020067ce-c894-4059-bb41-c8473d425a62,ZZZ,Albania,al,103189384966751,Arumun,Facebook
+68b26115-ad72-49a5-9735-fe2c4ebcb711,AI Chat Bot & Assistant,2023-09-18T05:05:20.812Z,34b6b903-7818-4a21-89d8-b8d20e03624a,ZZZ,Albania,al,112163061848058,AI Chat Bot & Assistant,Facebook
+04138544-0548-4208-b1a1-3e5cb3344b1b,Muslim Pro,2023-06-15T06:51:25.545Z,5cb838ca-d134-4f54-908e-1fb7c7ffbb9b,ZZZ,Albania,al,244196442342820,Muslim Pro,Facebook
+2084ce30-8307-4ee1-8eb1-369be8477a6f,ARCAS,2023-06-09T06:51:17.212Z,2285d70f-a361-4002-bdfa-ce4ecfd71787,ZZZ,Albania,al,269762948212,ARCAS,Facebook
+a469c0d2-b6d6-47e7-b95f-f7679596bc98,PCRF - Palestine Children's Relief Fund,2023-10-18T05:05:27.058Z,500be83e-11c7-4475-b6e8-9af1e9ad9268,ZZZ,Albania,al,114319561948157,PCRF - Palestine Children's Relief Fund,Facebook
+6878303d-c944-4d79-97e6-b1d4948ffbd6,The novels,2023-07-09T06:06:41.386Z,bf379677-305d-49a8-9791-62a4d2649ddd,ZZZ,Albania,al,102114825976458,The novels,Facebook
+420dde00-c8ac-4587-8098-fe5c09dcdb72,Timoni.al,2023-09-04T05:05:22.997Z,35095adf-dba9-427e-a8f8-250a8c7ba85e,ZZZ,Albania,al,111904554048847,Timoni.al,Facebook
+4497e19a-6234-4479-b6f9-7abb68309188,스키마리딩,2023-08-12T05:06:11.156Z,aa4a68f7-542c-49b2-a890-defac1fffd1c,ZZZ,Albania,al,106334182540171,스키마리딩,Facebook
+b3b9265b-e490-4cc8-ba99-179474c2b8fd,BicoccAlumni,2023-02-15T10:51:23.150Z,63aeb286-73bf-41e1-a56b-48e15531c6a0,ZZZ,Albania,al,551520988521720,BicoccAlumni,Facebook
+4cf4e1a6-95bb-407c-b36e-5e0d84212274,Mercy Relief,2023-11-26T05:05:25.445Z,ce0354d7-384e-4361-b2be-411f704d3a39,ZZZ,Albania,al,1703997926501590,Mercy Relief,Facebook
+0df882e2-05c5-439e-b57e-bd0331bff852,WealthInsider,2023-07-20T06:05:50.717Z,340058cc-0fee-4254-9d6b-0c292c491f45,ZZZ,Albania,al,108752775609974,WealthInsider,Facebook
+f7af0c66-50bc-4c59-957b-9d677ce53a90,Hot Cars Freaks,2023-08-21T05:06:10.210Z,709d9708-9ccf-4b49-a4b7-b10ef06c809a,ZZZ,Albania,al,106285282396345,Hot Cars Freaks,Facebook
+862b49ec-91de-47fc-8f84-54e80bb0c3a3,Invisible Republic,2023-02-21T10:51:27.610Z,fbf7133b-4afd-4a32-aee9-4ce6063106e1,ZZZ,Albania,al,111166248276745,Invisible Republic,Facebook
+ea43cd6e-2ad3-4683-bfbf-8cfd9ebb31c8,Luv4All: Mother Earth Warns. Wake Up Your Compassion,2023-02-26T10:51:37.833Z,399b5e17-5830-4194-a2b2-4ba94a378bc5,ZZZ,Albania,al,480934751930354,Luv4All: Mother Earth Warns. Wake Up Your Compassion,Facebook
+31d70541-7702-4fb8-9cf4-50c87c0518d4,PD-D r ea m-2,2023-11-11T05:05:07.212Z,962941d5-ee16-4c8f-aaf5-4dbfcf48c5b7,ZZZ,Albania,al,106719445422591,PD-D r ea m-2,Facebook
+17bb3442-b402-4852-b78d-300740a0e54c,Lifestyle & DIY,2023-10-26T05:05:22.546Z,e27e27cf-2cfb-42ab-9058-e4e3ed914fe4,ZZZ,Albania,al,104785792719687,Lifestyle & DIY,Facebook
+cc94182d-ca3b-4e66-a768-2e9cf156204c,Farming and Flooding Environmental Resilience Network - FERN,2023-03-08T16:38:59.627Z,abb6532a-a5a0-45dc-9928-0684d22cfdac,ZZZ,Albania,al,613107412454567,Farming and Flooding Environmental Resilience Network - FERN,Facebook
+aa9e3fcd-7a46-4bcf-a02d-0f3ae8c93a52,Inspiration is +,2023-10-29T05:05:42.285Z,47d687e9-3e1d-4163-82f5-31313d304024,ZZZ,Albania,al,186287341429293,Inspiration is +,Facebook
+f6dc068b-abdb-40e6-b66c-149b1bb158c3,Social Beast Al,2023-11-30T05:05:31.276Z,cf0fbd73-ee43-429a-a4b5-11363dde5ac5,ZZZ,Albania,al,115175781620307,Social Beast Al,Facebook
+38ad9933-1dc4-4d26-9b67-f6cd1d04bc90,Houari,2023-10-30T05:05:19.104Z,bf96d23a-11b0-4fb1-be64-fd716a09108a,ZZZ,Albania,al,826450770889008,Houari,Facebook
+24e14f92-ba1b-4134-ae11-48a12de729ae,政制及內地事務局,2023-11-17T05:05:14.596Z,544caf60-d421-45b8-8e77-1bd97623d53a,ZZZ,Albania,al,109462710764873,政制及內地事務局,Facebook
+3b269633-3b25-4554-be79-0697b5f263d2,Alibaba Cloud Intelligence Group,2023-09-17T05:05:16.542Z,4d98bdc1-339f-46df-9723-570597ce2ea3,ZZZ,Albania,al,107323505770636,Alibaba Cloud Intelligence Group,Facebook
+e1e42fbd-f8cb-4e8b-9eba-d8f8672da359,Evang. Akwaha,2023-04-23T06:50:59.881Z,f98857de-1019-4538-88e3-da803d581abc,ZZZ,Albania,al,108535778792153,Evang. Akwaha,Facebook
+2762c48f-71f9-4546-853e-a9951db1d663,Meet and Greet,2023-04-19T06:51:20.400Z,fbf9388f-70b9-4679-9308-ca244a09eff4,ZZZ,Albania,al,100525605800075,Meet and Greet,Facebook
+7d8617b9-4ad6-4565-bf7d-7c3e3518421c,Kluk v Pekingu,2023-09-12T05:04:52.869Z,5dc66dbc-49f8-4840-a1bc-76af18266dc4,ZZZ,Albania,al,102121255274258,Kluk v Pekingu,Facebook
+b340812a-8808-4d5e-94e4-e73b8946d6e1,Bigggie,2023-07-05T06:05:41.494Z,befa3fd3-8836-4105-9111-7944b787ae38,ZZZ,Albania,al,117105021304811,Bigggie,Facebook
+bac580fb-80e2-40e9-a63a-0706f7b898be,Muslim World League - رابطة العالم الإسلامي,2023-12-05T05:05:28.572Z,d60a01ca-1abe-41d1-a4db-ae93cb356254,ZZZ,Albania,al,366011250178842,Muslim World League - رابطة العالم الإسلامي,Facebook
+a8829119-32ea-42dc-9941-fec1e56cf722,Can't Say Enough,2023-10-17T05:05:28.000Z,885dea81-d7ca-4857-b164-12fc641b0518,ZZZ,Albania,al,108406111661301,Can't Say Enough,Facebook
+ef57a9f0-32fd-4dfd-b281-eb47f73b052e,Postcards from Ukraine,2023-10-24T05:05:21.781Z,b5cce583-d5b9-4ea9-a4a8-398599332abd,ZZZ,Albania,al,107898798686030,Postcards from Ukraine,Facebook
+5314f478-7823-4317-bb69-b96ec30bd231,DP World,2023-08-07T05:06:24.495Z,ec749274-5d50-47f9-aec6-2b79f08c7800,ZZZ,Albania,al,141363092729703,DP World,Facebook
+901b2cca-70cb-41b3-b7fe-0c10949c787d,International Diabetes Federation,2023-11-07T05:05:23.398Z,e3bc702a-67ae-4262-9142-1eab4d7fab9a,ZZZ,Albania,al,394366824446,International Diabetes Federation,Facebook
+f0984abc-ee96-462f-a099-f08396a166d4,À Qingdao,2023-11-09T05:05:17.484Z,dd96da27-f667-40a9-a20d-98dec54616c9,ZZZ,Albania,al,113204071834594,À Qingdao,Facebook
+b982c4bd-94d5-4d71-b91a-218f70b1dd4f,bashkiafushearrez,2023-09-01T05:05:20.314Z,14fac5c4-f970-4546-9a40-289a77543c67,ZZZ,Albania,al,107807309017032,bashkiafushearrez,Facebook
+7b33b340-dfbf-42a7-aed5-9075814ccc1f,Scentroid,2023-07-13T06:23:40.822Z,07e415f4-3d7c-449a-9001-e258987c003f,ZZZ,Albania,al,127916484044784,Scentroid,Facebook
+74bd54bd-70a3-4992-b464-5dc0235f8c31,UD Almería,2023-06-13T06:51:29.673Z,1e4acd2c-aa98-4e8d-b55e-0d5c5fa09a83,ZZZ,Albania,al,203490816328381,UD Almería,Facebook
+bbba1861-a9f2-433e-9211-2f5e4481338f,SoluTec,2023-04-29T06:51:18.345Z,781b438a-d16b-4ec0-a722-7f6616542e70,ZZZ,Albania,al,108061471650955,SoluTec,Facebook
+08149c39-9972-4388-8447-047e2e0dbf5e,GiveJoy - Israeli Charitable Foundation,2023-11-23T05:05:09.847Z,c2ad0ee2-3613-4af8-9c31-705497e59b51,ZZZ,Albania,al,154153631118236,GiveJoy - Israeli Charitable Foundation,Facebook
+a8da0460-92de-44ef-b930-63016dd79d7c,Stolybook,2023-06-10T06:51:17.519Z,997b1e60-883d-4f85-9aed-e676d46caa73,ZZZ,Albania,al,109130471907904,Stolybook,Facebook
+75aa69fd-9da2-4239-9141-aa698f8aada6,Bean Supply,2023-06-09T06:51:17.217Z,d4ad7d7f-6119-42ab-9845-3992d0102eb4,ZZZ,Albania,al,105056881344026,Bean Supply,Facebook
+f173c93a-2451-4e28-a8c9-e2ad1fbc1c68,Twibbon April,2023-05-03T06:51:17.719Z,82fd49a3-5016-4133-8964-aa11afb4c504,ZZZ,Albania,al,110980888642151,Twibbon April,Facebook
+1b1bab85-53c1-47d1-8b98-c8e8346ec705,Explicitu.,2023-09-01T05:05:20.354Z,70a9e171-bf5e-4d86-84c7-8f4f6ae6a012,ZZZ,Albania,al,101652812813813,Explicitu.,Facebook
+3813cb3a-aa34-4e8a-ada1-02259f6140f5,Coca-Cola Europacific Partners,2023-02-08T05:54:33.205Z,af0eeeda-b532-49b2-8611-4898441f2bdf,ZZZ,Albania,al,112749448851,Coca-Cola Europacific Partners,Facebook
+8a8d4fc7-54d2-4bfd-8223-6fb704c78c41,Hilarious LOLZ,2023-08-12T05:06:11.146Z,bcd08119-3762-4896-a2f8-50228483f5bc,ZZZ,Albania,al,111937411761351,Hilarious LOLZ,Facebook
+fa809fa1-45cb-4ca5-89d4-caffe21576cc,Beast Lord: The New Land,2023-08-14T05:05:35.910Z,d4a07bda-b73e-422f-a4de-e637135f380c,ZZZ,Albania,al,106533748956510,Beast Lord: The New Land,Facebook
+8d7061c8-8c35-4f79-9ad7-6ccbd688062f,Autostrada Biennale,2023-09-07T05:05:08.589Z,3557e766-36a6-4287-baa0-2eb8a5c2af08,ZZZ,Albania,al,941725935934822,Autostrada Biennale,Facebook
+2f6515c5-9ec5-4f79-a73a-7a61e4b2dded,Adea Hotel,2023-07-21T05:06:27.525Z,1e2856b1-8740-41c5-9309-1276707a2b6c,ZZZ,Albania,al,104862819249437,Adea Hotel,Facebook
+cf6b52a8-962a-41f1-a32f-bb955072974b,Initiatives SA,2023-07-25T05:06:14.756Z,031deae2-ea4a-4657-9e8d-647c1db5ce81,ZZZ,Albania,al,107418510655011,Initiatives SA,Facebook
+b1f5b563-3f3e-4c50-a2a5-ef4a34754bf9,zChocolat.com,2023-02-24T10:51:33.694Z,67b645d5-c77a-41e2-8ebe-4188a5465b37,ZZZ,Albania,al,159655254060987,zChocolat.com,Facebook
+fc84c334-ad11-42d0-ba52-b621e7012e38,Change the World Model United Nations,2023-03-03T10:51:30.879Z,2ba70714-eade-4a0d-a397-26173fdb16db,ZZZ,Albania,al,267264199961398,Change the World Model United Nations,Facebook
+cd9595d3-e457-4884-bb94-c62eaaf45b63,Nordestinos In The World,2023-12-06T05:05:24.769Z,eb3acb3a-0399-46e7-87e0-5375e4be9a77,ZZZ,Albania,al,1678616275518086,Nordestinos In The World,Facebook
+8f38df7b-e6c5-425f-8f39-1e1c95587563,EximFinance,2023-12-13T05:05:37.606Z,0f51e4b0-cf8e-41fb-b8c1-ce26c4249bec,ZZZ,Albania,al,165784736622069,EximFinance,Facebook
+5ba75e1a-e18c-4003-aa9a-d44e43ae5c59,MeYo.One,2023-11-13T05:06:14.078Z,8fc78c5f-a962-4696-a1ff-bce6df4b44fb,ZZZ,Albania,al,104694321338922,MeYo.One,Facebook
+a1a3dfe5-6f0a-41b2-846c-88c1514c4200,Private White V.C.,2023-11-14T12:24:49.936Z,7969d8c0-3571-4c55-8ae0-e32ca23feabc,ZZZ,Albania,al,143190282414828,Private White V.C.,Facebook
+a19fabf5-b488-46ea-be8c-489395ac9d30,Vip Hair Extension,2023-07-22T05:06:14.609Z,92b8a548-30d2-4aa7-8568-69da856572dc,ZZZ,Albania,al,116365277988457,Vip Hair Extension,Facebook
+49f3d99f-6c96-4ca2-a90b-c8cded3a1579,Fish City,2023-11-01T05:05:24.689Z,d88b7250-c9c4-4787-acf2-0c778c633dd9,ZZZ,Albania,al,330509334108161,Fish City,Facebook
+70fd0535-9899-4186-ad93-7772192355c2,Trust Edge Leadership Institute,2023-09-10T05:05:18.556Z,4eb5264c-aa2f-41e1-9d70-14635e35f28b,ZZZ,Albania,al,117626908248017,Trust Edge Leadership Institute,Facebook
+149c2c5f-2e49-47a5-8ef6-a45635215f9f,"Camera Translator Leo : Chat , Photo Translate",2023-09-24T05:05:29.470Z,a2c7eda3-cf65-4648-aac7-d48cb51781b1,ZZZ,Albania,al,102838509572546,"Camera Translator Leo : Chat , Photo Translate",Facebook
+57454e53-66a7-44d1-bbd9-8e7d8e572b0c,Si Amo Afrin,2023-04-11T10:51:14.763Z,969a9bde-6679-42f8-b7d9-38c9933b77fd,ZZZ,Albania,al,1606155556168996,Si Amo Afrin,Facebook
+fa3dd67e-e69b-48d4-8de9-31009a46c79a,From the Archives,2023-08-27T05:05:23.219Z,686f140d-9840-459a-8e02-a581f3b7515e,ZZZ,Albania,al,120054347740046,From the Archives,Facebook
+09ce6876-b247-4619-8b6c-92953521b3df,Benson Agnes,2023-12-01T05:05:32.245Z,12cf3674-774e-4756-9fc1-2d86848cae8a,ZZZ,Albania,al,132624239942158,Benson Agnes,Facebook
+ec8c437b-d392-42b1-8814-defe1014c31b,danilokalezic,2023-05-04T06:51:18.528Z,de54d530-40b4-4c96-a6d8-a64db900aead,ZZZ,Albania,al,103881712593655,danilokalezic,Facebook
+925ea690-7d8c-4bf2-b842-942cfb38afae,History Discover,2023-11-17T05:05:14.650Z,35537d94-d386-43d5-b8fd-da0209304197,ZZZ,Albania,al,104805779302957,History Discover,Facebook
+e9ed7022-0b9c-4d99-8552-6479b9b40b52,RCD Espanyol de Barcelona,2023-06-15T06:51:25.574Z,4f75d3c7-243d-4bfa-a7d5-1ffa84c49046,ZZZ,Albania,al,322865159833,RCD Espanyol de Barcelona,Facebook
+62590995-c705-47c9-aed6-8e09179febec,Alotofstylewe.com,2023-06-23T05:15:11.917Z,2dee7b0d-dfc6-4b47-9a45-dd81be89ecf2,ZZZ,Albania,al,103393035778315,Alotofstylewe.com,Facebook
+8f8fa2b6-f52b-4ee8-b820-f63f0c01e775,Jugulajm,2023-07-10T06:49:36.437Z,75c63baf-7d48-40b5-9029-0c67d431c854,ZZZ,Albania,al,297883886935125,Jugulajm,Facebook
+1a894102-5506-4aa5-91c8-ebec45d7d6d7,Adventist Education Dialogue,2023-11-08T05:05:21.192Z,f27694f3-a967-45a7-a9e7-255ba5a5109b,ZZZ,Albania,al,194243164260,Adventist Education Dialogue,Facebook
+e87be4c2-eb5f-4527-983d-5151e8f2023d,Richard Times,2023-06-10T06:51:17.453Z,3092a7f0-bf4d-4dac-bff8-e7098686dd18,ZZZ,Albania,al,100724569628479,Richard Times,Facebook
+16aafaad-5fe9-4f72-a3b8-c6c52b06d774,Kpop4Planet,2023-09-03T05:05:17.315Z,79a58683-97d0-4641-a068-20e2c7e9d65f,ZZZ,Albania,al,103886725073257,Kpop4Planet,Facebook
+c96db9c7-e624-4f18-b050-8943d7dc576e,Justin Henderson,2023-06-13T06:51:29.659Z,6c6f75f1-c836-4dc3-84df-d6f85c2b9793,ZZZ,Albania,al,110844098701299,Justin Henderson,Facebook
+a7b0fdcf-f505-4af5-b4cc-e08fbe8316e1,DataPatrol,2023-06-12T06:51:13.771Z,30bb7ba4-ca05-48d0-b356-3225c6994660,ZZZ,Albania,al,107439705267079,DataPatrol,Facebook
+5e681bec-c0a1-4942-b2be-04e62c3fd8b1,Cooking 4 All Life,2023-07-07T13:14:47.824Z,69ec5453-6d36-4441-8ef3-c0265cb09970,ZZZ,Albania,al,102019031890024,Cooking 4 All Life,Facebook
+ca467ebc-5896-45a6-b4b9-7af72612a120,european_review,2023-12-05T05:05:28.572Z,2039de60-4af2-48ab-8e9e-c7a932efb3e3,ZZZ,Albania,al,108105981444447,european_review,Facebook
+4a6772b4-cbbb-4056-abf0-ac1b46e7a783,Tech Crowdfunding Projects,2023-10-23T05:05:06.881Z,97dde9f6-e805-49b8-a304-609416f44935,ZZZ,Albania,al,212000792504954,Tech Crowdfunding Projects,Facebook
+93958ba8-362f-410b-9eac-28b147e30528,Big Pink Youth Dialogue,2023-05-03T06:51:17.726Z,39e9baee-2755-44a5-84d5-934c5a253f94,ZZZ,Albania,al,117039841320523,Big Pink Youth Dialogue,Facebook
+56c05508-6a9e-4eb8-a2f3-a5a0c6d8d659,Katılım Enerji,2023-03-10T10:51:25.628Z,b699a3d4-a0d2-4690-bc31-7888c11c4276,ZZZ,Albania,al,116579274675720,Katılım Enerji,Facebook
+c0f5b9f8-4dde-4d37-81e8-75a54bfd9cd7,Tax Consulting South Africa,2023-08-05T05:06:15.151Z,875e61d6-bae4-4e6e-b59c-4292ab108c44,ZZZ,Albania,al,455133101359253,Tax Consulting South Africa,Facebook
+cacce247-cdae-4264-bc10-5dbd593c425e,CNA.al,2023-02-07T15:04:59.232Z,69451fb2-6104-4ed5-8a56-208d74c9255f,ZZZ,Albania,al,444048512310948,CNA.al,Facebook
+2e3bcb8c-7b10-4849-96c4-19b0b4fbd946,Goodwings,2023-02-11T10:51:18.315Z,af50cb49-c956-4eb5-a1a8-0fe960a5cff9,ZZZ,Albania,al,535653566608632,Goodwings,Facebook
+249ebd58-e4b5-4faa-b3d6-ccaa128476b9,VitalRecover,2023-11-30T05:05:31.324Z,9b2c3918-05e3-44de-963e-824b4219dcdd,ZZZ,Albania,al,101717949400657,VitalRecover,Facebook
+2575c2f3-3eb4-4cfc-915c-7c9c1c8c7836,Circulationes-UK,2023-09-07T05:05:08.582Z,b752d19a-5add-4f4a-b667-8a939b4eeb1f,ZZZ,Albania,al,105832965919021,Circulationes-UK,Facebook
+c6037e8a-4e20-497b-92e8-abb159d0d542,Web Summit Qatar,2023-11-27T05:05:32.504Z,83c33934-a0e0-4d70-a0be-dd905514c2cb,ZZZ,Albania,al,102299546168565,Web Summit Qatar,Facebook
+262c3131-ccf9-406c-b163-59c83c42e8e9,MVVBB,2023-07-26T05:07:17.588Z,81442af5-67bf-4a25-86b5-e00fb0592eaa,ZZZ,Albania,al,114037815086076,MVVBB,Facebook
+b83ebb2d-fe47-4226-bfa0-23d48994e63a,World Ocean Initiative,2023-02-24T10:51:33.684Z,a2eec5b3-302e-4bbc-a222-5226e52dd5fb,ZZZ,Albania,al,126208427481291,World Ocean Initiative,Facebook
+80cda278-e8b6-4c45-a2b8-df1621d30c43,HANA - Hand to hand Against Nation Apathy,2023-03-03T10:51:30.856Z,2876fec3-425a-48d8-bbe8-a639f4b77c37,ZZZ,Albania,al,499240630504462,HANA - Hand to hand Against Nation Apathy,Facebook
+f6727504-7a23-4a94-8c00-1eebf1493422,Investing Entretenimento,2023-11-21T06:24:39.558Z,ecba9d81-c300-4763-ab9b-5f74548669ba,ZZZ,Albania,al,106828635137014,Investing Entretenimento,Facebook
+0fb7ebe9-d58f-463b-a067-a3a6a7ee2d33,FAW Global,2023-03-08T16:08:09.840Z,3ade8fab-e7f5-4956-849b-96c2e062e757,ZZZ,Albania,al,122861212590833,FAW Global,Facebook
+897a5dc7-68d3-4c2c-95ae-1241a969260b,Sabai-Boutique,2023-11-10T05:05:14.952Z,eb92bff4-ddb6-4840-8f31-87aa824288ae,ZZZ,Albania,al,103122639107936,Sabai-Boutique,Facebook
+eb33c952-82bd-43a3-aee1-6e90222f6cec,Sii Groupe Paris Abdoul Kader Barry,2023-09-28T05:05:15.827Z,eaf22080-8c93-4bad-b1e8-a3c1e6ec5000,ZZZ,Albania,al,114778398392377,Sii Groupe Paris Abdoul Kader Barry,Facebook
+5c8abbfc-8745-4f3c-9ad9-619fdaf1ebcf,Entertainment life,2023-07-22T05:06:14.584Z,11af8f98-c516-4246-b764-8aed7927e55f,ZZZ,Albania,al,100429919715686,Entertainment life,Facebook
+ddc2e00e-07fd-4aba-aadc-2b837e68ba96,WorldWide Watchers,2023-07-23T05:06:25.148Z,3cd3445a-5f43-4600-a8d3-336aeadc528e,ZZZ,Albania,al,118093461274839,WorldWide Watchers,Facebook
+4d6a4813-43d9-40d3-8f82-40f996a6341f,Fine Acts,2023-11-03T05:05:28.325Z,eb45e31d-f790-4c97-ab37-3c5f7dc788bf,ZZZ,Albania,al,1442284466062649,Fine Acts,Facebook
+78b46c52-31ea-46f1-a88c-f8ae4aeed4e5,5th Amendment,2023-09-17T05:05:16.565Z,6eaca9cb-7427-4490-be7d-c64d143008d6,ZZZ,Albania,al,113241590427605,5th Amendment,Facebook
+804cf472-0d04-44a5-8ccf-03453ec9db3f,Ashleyjtoddblog,2023-04-27T06:51:21.063Z,499cba0c-e89e-4aa4-a980-fa3420a010bc,ZZZ,Albania,al,137223326998592,Ashleyjtoddblog,Facebook
+18b56716-8532-4a5c-8f8e-21dd6a846d43,Road to Vintage - Music,2023-04-19T06:51:20.439Z,811ff134-d695-402f-acec-05c349585190,ZZZ,Albania,al,101922875434564,Road to Vintage - Music,Facebook
+5cee79cb-4f36-4c1e-b9ec-aa52f96be7ed,Motor Junkie Fans,2023-09-13T05:05:12.883Z,59117f5a-e6a7-4298-a79c-8c3309a4aff8,ZZZ,Albania,al,110192681490682,Motor Junkie Fans,Facebook
+51a9832c-3b0d-4e75-95d9-525029968a4c,Lingutown,2023-10-18T05:05:27.095Z,3b09a6ae-7133-434c-a044-35ced97ecdfb,ZZZ,Albania,al,113374178269112,Lingutown,Facebook
+8c64a9ad-c289-4ef7-9dc3-82aadd6e19ba,Touch Beijing,2023-10-29T05:05:42.276Z,1ece19c8-7401-4b04-8626-82ff55d5e5cc,ZZZ,Albania,al,103159918165863,Touch Beijing,Facebook
+8330d34e-88d0-4065-8228-8d4f6ce3b49d,Cecil Oliver,2023-11-21T06:24:39.562Z,e64c0e09-6efa-4c7b-8053-255cff4ff769,ZZZ,Albania,al,105233792667321,Cecil Oliver,Facebook
+e1336a91-7cca-4f4e-8b04-1ee9b2843db4,Studit,2023-06-20T05:06:13.351Z,6f5b3594-338e-4779-a72e-22f0f051130f,ZZZ,Albania,al,112712157526627,Studit,Facebook
+cefdfa5b-b0d6-4434-95b8-adf51e0cf67f,SATAS International,2023-07-09T06:06:41.381Z,d74726b3-a1f5-497e-b5f1-716e3ae443b8,ZZZ,Albania,al,106839211891183,SATAS International,Facebook
+0a0c43f3-1098-4684-bf69-e82f99a6c2d9,auto_part_saliaj,2023-05-24T06:51:20.631Z,011d9dbb-ab05-4ade-a63f-1207d917b27f,ZZZ,Albania,al,110316418509019,auto_part_saliaj,Facebook
+609c6376-ea6e-40a5-a10c-916b1677fe37,يونيسف – اليمن UNICEF Yemen,2023-06-05T06:51:28.744Z,4855aebd-7ba5-400f-8bf0-0903f793cc71,ZZZ,Albania,al,139654236100628,يونيسف – اليمن UNICEF Yemen,Facebook
+4beb7945-2f2a-4564-a56d-73a731c7fd51,EuroObserver,2023-11-24T05:05:28.241Z,c0c6427b-101e-4973-95a6-5c70f0cedcf2,ZZZ,Albania,al,134535826414083,EuroObserver,Facebook
+b4bacdc3-5777-435b-9522-15bc29d5f5e8,Mga Mensahe ng Islam,2023-02-17T10:51:21.948Z,7bc4fa77-3c5a-4a2b-9fd4-9aba7f58d412,ZZZ,Albania,al,108103858747349,Mga Mensahe ng Islam,Facebook
+1d20470d-85cc-4329-a4ce-f13c6c8f7fec,GazetaBlic Videos,2023-10-24T05:05:22.037Z,7f8cbf6b-c715-414b-bc65-2dbb331cd8d8,ZZZ,Albania,al,123259090870081,GazetaBlic Videos,Facebook
+7f4ec477-4ebb-40bb-9e10-c4b6e936731d,Story time,2023-08-31T06:12:30.725Z,495bd4b1-b3cc-4ef0-b976-56097e0a610b,ZZZ,Albania,al,118271861357765,Story time,Facebook
+3007d26a-c484-4b09-a636-524be6d8d3f0,Long Hair Goals,2023-09-22T05:05:21.569Z,04d58018-38e2-4df5-a98e-e12eefd41988,ZZZ,Albania,al,109632134839089,Long Hair Goals,Facebook
+d55c2c05-2fd1-4a2d-9826-92fbcbce369f,MirSatori,2023-11-07T05:05:23.255Z,e64f1b94-ba4f-4665-aac6-f637f283c83a,ZZZ,Albania,al,110992498745505,MirSatori,Facebook
+ec2c2551-c01b-4ccf-ad5a-55935419681e,Opea Organization,2023-06-23T06:25:34.966Z,0de91de5-8d16-4555-b949-4ead967f40eb,ZZZ,Albania,al,102848074747443,Opea Organization,Facebook
+b965c1e5-5840-4e36-8dc3-dcdfee1f6fa4,Dicas de Mulher,2023-05-05T06:51:11.096Z,1f1b4666-434c-4ba4-bd05-cd69c378cf18,ZZZ,Albania,al,116229124772170,Dicas de Mulher,Facebook
+52797d6b-e9b5-4bae-8911-a53c206b1d90,Bluepha,2023-12-11T06:40:42.404Z,1484e333-dd3b-43e8-818b-2a54d4863034,ZZZ,Albania,al,186196781233204,Bluepha,Facebook
+15dc9c94-1eb3-4094-9fed-a13bf60ed517,NSF,2023-03-13T10:51:19.822Z,351da5a4-3942-4149-93fb-12c6f34fd469,ZZZ,Albania,al,148548965168926,NSF,Facebook
+ff17f61b-2c54-435a-923d-e06f0026f4d9,Donat Syla Videos,2023-09-14T05:05:12.877Z,4ff974df-b885-4be3-b70d-ed772d193dcf,ZZZ,Albania,al,119944921200433,Donat Syla Videos,Facebook
+030a6a9a-f07c-4c34-ab09-96c05839adb4,Rosito Dinero Music,2023-02-08T05:54:33.242Z,c868e9dc-5520-4e2b-9c1f-5ae2dadf6fea,ZZZ,Albania,al,102916809366515,Rosito Dinero Music,Facebook
+695b4356-b543-4634-a749-bf50897d7cbf,Kitco Mining,2023-02-12T10:51:24.830Z,f4352106-3657-453c-a317-11b14a487025,ZZZ,Albania,al,106614631788380,Kitco Mining,Facebook
+e6d04f75-35fd-48f8-a0a2-69a36fb3a601,Nottingham Trent University,2023-02-19T10:51:46.020Z,8e3db6e9-4654-4145-830a-acb3c55e5b37,ZZZ,Albania,al,57322902081,Nottingham Trent University,Facebook
+344c7099-fbf6-4f9e-9c9c-8bd137044a00,Bjnohhuo-2324,2023-07-18T06:05:37.697Z,14ded5fb-feac-4311-97f3-724c5f12fa9c,ZZZ,Albania,al,105698242593949,Bjnohhuo-2324,Facebook
+16c1c700-8ce7-4b82-b950-c0b89aa36d20,Panstar Cruise,2023-11-27T05:05:32.519Z,0ee94f2e-8937-4a17-8ff9-c79baa6ab47e,ZZZ,Albania,al,101203429485426,Panstar Cruise,Facebook
+22816a7b-239d-4b8b-9a57-bf1ee43749af,Ενός Ανδρός Ηπειρος,2023-07-24T05:05:58.644Z,dda92617-68fd-4466-9c55-4fed6a8f98fd,ZZZ,Albania,al,105942328710010,Ενός Ανδρός Ηπειρος,Facebook
+22e4414a-ba51-4d9a-88aa-dbfbbdb7c21c,Carter Five,2023-02-24T10:51:33.660Z,6ffc36d7-5705-4bcb-b720-7e3e6fd2e509,ZZZ,Albania,al,347614259651377,Carter Five,Facebook
+5841c825-0ad6-4191-8a1e-4653ef756a5d,Instant Hacking,2023-03-02T10:51:30.748Z,4be46258-f624-4373-bbad-b285d9bbe8b8,ZZZ,Albania,al,109376282081332,Instant Hacking,Facebook
+64a5db4b-bf0a-4f34-b041-a6c5087e98cf,How’s It Dogging?,2023-12-06T05:05:24.747Z,deb83524-2084-49c2-b86d-1bad9e62f788,ZZZ,Albania,al,108018115534385,How’s It Dogging?,Facebook
+5d3746a5-24e5-45ac-88af-b9490addc82c,Balkan Film Market,2023-12-13T05:05:37.580Z,4a84356c-8219-44bd-9a31-080468987106,ZZZ,Albania,al,731845080229326,Balkan Film Market,Facebook
+b02dc0b9-de15-4770-85b2-d8c7800d1d6f,Stonesnenkalim,2023-11-13T05:06:14.051Z,09da95e8-d2b5-46f6-9259-968e9386f24e,ZZZ,Albania,al,117082820082617,Stonesnenkalim,Facebook
+2967bcb6-5e88-4b4e-9406-53199b4f5b0f,Renewable EnergyTech,2023-11-14T12:24:49.904Z,4fd16df3-0809-457c-b8a3-093792e4e5db,ZZZ,Albania,al,137155026145180,Renewable EnergyTech,Facebook
+e73dc2b3-964f-4dbb-9170-2434a2c02026,Menswear Minotauro,2023-07-22T05:06:14.609Z,0005e9fd-82ad-4049-9f1b-419a7bb09ad3,ZZZ,Albania,al,105073515856053,Menswear Minotauro,Facebook
+8f6a1ef6-8307-4151-a9c1-b9b834a53aad,Aldo.npp,2023-12-02T17:13:53.616Z,06b4c4c4-4302-46a2-8bc7-c70fd54f11b0,ZZZ,Albania,al,126694660525807,Aldo.npp,Facebook
+9bebc53f-442e-485d-97b2-f7d87598ae4a,sardegna_meravigliosa_,2023-04-11T10:51:14.724Z,ca98883e-c7dd-4626-82a1-bcfb66c8f6bd,ZZZ,Albania,al,107684718910036,sardegna_meravigliosa_,Facebook
+9d8a959c-226b-43cd-9295-1747b58a472d,US Open Tennis Championships,2023-09-17T05:05:16.576Z,9bdf3658-fb99-4a22-8f37-eaa10c078edb,ZZZ,Albania,al,96832392186,US Open Tennis Championships,Facebook
+469ade0c-6302-41eb-9457-e8d89cae4613,Fast Travel Games,2023-04-29T06:51:18.358Z,9ddbf659-adf5-431d-99a6-734ceec02b23,ZZZ,Albania,al,146822255731958,Fast Travel Games,Facebook
+1a685af9-ec40-4b05-a0bd-b9ff807c77fb,Extra famous,2023-04-19T06:51:20.449Z,72742881-f57b-4f4f-93a9-f10ed6208b18,ZZZ,Albania,al,101388509327100,Extra famous,Facebook
+b085f9bc-d165-4e0a-965a-1de2ca1c5f84,Islamic Solidarity Sports Federation -ISSF,2023-12-01T05:05:32.226Z,6010b11e-228b-417a-bc05-58d657ddb0bd,ZZZ,Albania,al,106608058809509,Islamic Solidarity Sports Federation -ISSF,Facebook
+4fc51c1f-75f6-4540-ba75-f4c4bbe72784,Elbasani Flash,2023-05-03T06:51:17.669Z,bb2590dc-371e-4b12-ba22-fcc462775ed9,ZZZ,Albania,al,135932333109751,Elbasani Flash,Facebook
+96e43d03-0854-4bdb-b11b-8952cb317e39,jeton.watches,2023-10-29T05:05:42.248Z,c3577b5d-b00f-44d3-b713-5eaadcbb686e,ZZZ,Albania,al,104412762198097,jeton.watches,Facebook
+96463060-3cdd-48d9-96ef-a3639fad684d,Mind Traveller,2023-11-21T06:24:39.579Z,9e84fcd9-ca77-447a-9a0f-37b2cae86347,ZZZ,Albania,al,101833715788577,Mind Traveller,Facebook
+5fa108ea-8e1d-433d-8aca-fad56e315bd8,Cooking Center - Restaurant Game,2023-06-20T05:06:13.359Z,8ae85451-d925-4807-b02e-b92a742a9010,ZZZ,Albania,al,106842858489193,Cooking Center - Restaurant Game,Facebook
+d1ef667d-8701-4289-b487-138cdc00095d,Battle Born Batteries,2023-07-10T06:49:36.436Z,63eccffc-bb4d-4064-ab1f-ed9f7a9a0d07,ZZZ,Albania,al,1277035072390355,Battle Born Batteries,Facebook
+4eb7f79e-8d9b-4b28-9ebe-f1b21c0faf75,Global Peace Index,2023-11-08T05:05:21.178Z,42893111-077c-4505-ab37-cd24f7a7266f,ZZZ,Albania,al,92288319748,Global Peace Index,Facebook
+00a3b460-fde0-45ab-9ffb-0b00e5ea112e,Monkeflow,2023-10-23T05:05:06.876Z,9720b12c-be5e-4410-ad0a-9bc7b700fac1,ZZZ,Albania,al,108714518691126,Monkeflow,Facebook
+8f34a653-d085-4564-a7dd-4fefd78ea70e,Laika Film & Television AB,2023-09-03T05:05:17.290Z,57e9f59c-6b20-4bdc-ad4d-f1499526b846,ZZZ,Albania,al,1510922572534315,Laika Film & Television AB,Facebook
+ef913a5a-9472-42e1-bb8b-2579c6aa466c,Street Insider Daily,2023-06-13T06:51:29.686Z,89f60528-4994-4321-ab46-ad9c9f05bde6,ZZZ,Albania,al,114983151609553,Street Insider Daily,Facebook
+86c6c726-cbd3-4ae1-afc5-318fc67bf25e,Akademia Wychowania,2023-06-26T05:06:37.151Z,5a401d5c-b85a-4995-91b3-972a15a22e8f,ZZZ,Albania,al,864782036884201,Akademia Wychowania,Facebook
+b44637b6-4b99-4b04-95ff-402a71e0ba31,Festival Internacional de Poesía de Medellín,2023-07-06T06:05:52.111Z,ee4de469-2c60-4035-8f31-e53abd679d11,ZZZ,Albania,al,1621221168148375,Festival Internacional de Poesía de Medellín,Facebook
+b4deaf03-2009-4d37-bdc1-c07241cb977a,Brain Games,2023-06-10T06:51:17.541Z,8c1943ee-3ef8-4b46-ac2b-673e7e29d40c,ZZZ,Albania,al,112957186910938,Brain Games,Facebook
+88145d5e-af11-4dc0-b70f-6d399cad185c,Deceuninck,2023-11-07T05:05:23.317Z,93126d5e-47e4-4bf9-b630-0b6cab45114e,ZZZ,Albania,al,307042616017543,Deceuninck,Facebook
+517ca531-d142-477e-89d8-027049883309,Schola Palatina,2023-04-30T06:51:02.330Z,5d670e5f-51e6-48cf-85d3-61194e7708af,ZZZ,Albania,al,100946331929105,Schola Palatina,Facebook
+d8ecbb6a-8b0b-4c1e-8482-4d0954343caf,Albanian Historical Society,2023-07-11T06:05:53.164Z,7c3a024c-6b14-4e6f-913c-e9631e933cfe,ZZZ,Albania,al,1716452185129087,Albanian Historical Society,Facebook
+fe744fd3-29b2-4601-b047-523e68a417a5,nasimazadi2022,2023-02-08T05:54:33.243Z,bda79ef7-dd47-4925-8295-498c622639fe,ZZZ,Albania,al,110962101793098,nasimazadi2022,Facebook
+b613a8e5-d6fe-43fb-9ba5-9c01454d06cf,Green Feed,2023-02-11T10:51:18.322Z,e1f4b807-90c5-4bf8-bd8b-cacdde585b9b,ZZZ,Albania,al,103193692690093,Green Feed,Facebook
+5231c308-aecd-47ae-9afa-f99d4a7dc785,Reproclinic,2023-02-19T10:51:45.984Z,95b2aa58-2209-451b-84bb-2497d1489163,ZZZ,Albania,al,147353996055064,Reproclinic,Facebook
+37d65f70-e784-4654-9cd3-282ab540dd33,Gabriel Merlin Assessoria Esportiva,2023-09-15T05:05:10.368Z,2a50778b-17e9-4fa0-a735-9da976f3bb9f,ZZZ,Albania,al,114006632574197,Gabriel Merlin Assessoria Esportiva,Facebook
+f2a885ad-8c90-4cb6-84f5-c1922f342a65,Climate Change,2023-08-19T05:06:13.270Z,48afdbe7-67ff-4854-8fb7-4c99c992263f,ZZZ,Albania,al,107194965812327,Climate Change,Facebook
+6189548c-298d-4099-b9fa-59e094bb4c52,Захисник України / Defender of Ukraine,2023-08-20T05:05:59.456Z,b0d234dc-1cb4-4658-896e-d275801ba6a6,ZZZ,Albania,al,100167836134319,Захисник України / Defender of Ukraine,Facebook
+8e5634c1-4d80-447f-8487-212f69697103,Sophie#1234567+,2023-02-24T10:51:33.698Z,96688411-a8eb-4f91-bf19-248b2d2885b9,ZZZ,Albania,al,164889460226684,Sophie#1234567+,Facebook
+f024e980-c1f4-4726-91c1-9538b3f45b4c,Balsam APP,2023-08-01T05:06:11.782Z,cec0b336-f07d-4f1f-87bc-1829e7655517,ZZZ,Albania,al,107045848966758,Balsam APP,Facebook
+7f845e77-3505-45d8-aa6c-4b6603945cf0,Kif Reading,2023-09-24T05:05:29.537Z,281bf067-1ade-405a-ae38-11e2155624eb,ZZZ,Albania,al,109718671640762,Kif Reading,Facebook
+39bbc669-7913-4026-81d3-9db39e98bc6b,keeeper,2023-10-27T05:05:43.925Z,c66f03b3-2d3e-4931-80b0-41ecfd2b70c5,ZZZ,Albania,al,445676992290194,keeeper,Facebook
+a360cff0-3a2c-4a78-9a41-036c0a990855,Soft Tool,2023-09-27T05:05:40.920Z,4e140c89-4439-418d-9040-9cb81e990d31,ZZZ,Albania,al,101336282725797,Soft Tool,Facebook
+0b5658f9-16bd-4457-a448-375860eaf233,Mind Your Waste Foundation,2023-07-17T06:30:37.906Z,04f2e747-f097-443a-bd62-eb9e14f4139e,ZZZ,Albania,al,541622786326794,Mind Your Waste Foundation,Facebook
+da3d0285-9828-4975-bba8-4ebc05856faa,Environmental Communication,2023-11-13T05:06:14.112Z,a3737233-e30f-4aac-a8c9-98bdad966436,ZZZ,Albania,al,109241268666953,Environmental Communication,Facebook
+dff18cfc-921e-48c9-82c5-0e43616117f6,PDDP,2023-04-02T10:51:34.356Z,49723615-6fb5-4002-a1b0-ce614d62e286,ZZZ,Albania,al,109684488750969,PDDP,Facebook
+d8c90a1b-2e38-446c-9751-a1f1b410b43d,1초영화,2023-08-29T05:05:15.297Z,cef48252-862d-43b0-b564-5e35b0ca87d2,ZZZ,Albania,al,649581478987260,1초영화,Facebook
+8183dcb8-1660-4efa-8139-f3ff695f5169,ITranslator & Easy Link-0411-L1,2023-04-22T06:01:48.223Z,d4a080fe-b999-46ea-80fe-68d76e8cd9cb,ZZZ,Albania,al,1366918240101116,ITranslator & Easy Link-0411-L1,Facebook
+e844066c-c495-4b22-b0e3-0b8ebdda55a9,International Business,2023-04-16T15:03:38.633Z,db006f2d-3057-40fb-8e0b-c279aa50c78e,ZZZ,Albania,al,103824825199131,International Business,Facebook
+7866f8ae-0a94-4de3-874e-ca90814a69b6,올쿠나 올댓의원,2023-08-29T05:05:15.311Z,d147d509-d8ea-48ad-b23f-073d9ebb7fe8,ZZZ,Albania,al,100847068399507,올쿠나 올댓의원,Facebook
+9f6ed137-85ff-4ed4-a79a-4fad9d2bd147,Kosovo Architecture Festival,2023-07-05T06:05:41.498Z,bb87cbab-c793-49e0-ad6c-b45aee87aa15,ZZZ,Albania,al,445001358920989,Kosovo Architecture Festival,Facebook
+b5f3ff3a-26b5-4b2f-8a05-98f16f0e9c9a,WIC News,2023-11-07T05:05:23.379Z,b550efa3-e125-4a42-bb85-c28915a10fc9,ZZZ,Albania,al,186234641881494,WIC News,Facebook
+6a5134b1-5a34-427a-8b80-9a5dd5e01098,FakT,2023-08-26T05:05:20.647Z,e6eec0ba-9c41-40a5-afe1-54611665d9e3,ZZZ,Albania,al,102697642216654,FakT,Facebook
+2b98438a-953d-47e9-ae8a-29653c5c9ae0,Oasis Hunters,2023-06-16T09:31:36.572Z,4cef68e1-76ea-40f3-bc59-583561da8002,ZZZ,Albania,al,100416934901628,Oasis Hunters,Facebook
+37c0c578-49e7-4876-a87c-dd63bbfd3e72,URBAN clothing Store,2023-07-08T06:05:49.367Z,1fc56028-c909-4ecb-9552-0e98ef1e1601,ZZZ,Albania,al,731940790311391,URBAN clothing Store,Facebook
+026e2872-cdc8-4c3b-ae06-437b4ccdddd5,Geo2 djubriva Srbija,2023-05-12T06:51:22.499Z,58664428-43b1-42d4-a04f-ef14986a5e61,ZZZ,Albania,al,224538561645425,Geo2 djubriva Srbija,Facebook
+3fb20da6-e04c-46c7-8f02-b7e8534cf6b2,Visit Shaanxi,2023-10-22T05:05:26.721Z,81fb83c6-8eb6-4f7c-8488-33ec5fc3471a,ZZZ,Albania,al,559984527424251,Visit Shaanxi,Facebook
+f3acb34c-018c-43ea-8dbf-e2216871eb8e,Celebrity channel,2023-09-22T05:05:21.594Z,107fea54-39ca-4ef4-8a26-3a738f8cc11f,ZZZ,Albania,al,107135722482171,Celebrity channel,Facebook
+4964d70a-d882-4a6d-88c3-7e45bf324f5e,ELI,2023-07-17T06:30:37.871Z,285483c0-2819-47e3-a7b3-d40f987be9e7,ZZZ,Albania,al,100691030115327,ELI,Facebook
+b3f1ecd5-8150-4e04-a0ca-96fd067bf549,Lehosheet Yad,2023-10-24T05:05:21.841Z,ec0f49a1-44c9-4943-ac14-6a29e80b4387,ZZZ,Albania,al,113302621587505,Lehosheet Yad,Facebook
+9eba611f-2a19-44bb-9f96-108e9c0d09ae,The Raoul Wallenberg Centre for Human Rights,2023-07-06T06:05:52.102Z,0e840220-500d-42af-9a9f-e739e8a63cad,ZZZ,Albania,al,219584634729959,The Raoul Wallenberg Centre for Human Rights,Facebook
+1e158924-bb60-487a-8b33-bae329b7f3af,Curandero Mayor,2023-08-14T05:05:35.920Z,8ed26fca-ee44-40c7-bcd5-494862eed4e4,ZZZ,Albania,al,103269689517115,Curandero Mayor,Facebook
+bc48b5b6-9adf-4425-901b-2cb0eb311ebe,Biography Fort,2023-11-07T05:05:23.381Z,47960b5c-1fe2-422a-bc96-43d66244bf58,ZZZ,Albania,al,109416902030574,Biography Fort,Facebook
+b8b78b12-ab63-444c-833c-8d7f318bcfcd,Samson Rope Technologies,2023-05-01T06:51:10.230Z,06121a6e-b40d-418c-bcf0-ff40a5b8f2ea,ZZZ,Albania,al,171163390480055,Samson Rope Technologies,Facebook
+ae95570b-00ee-46f8-9011-f3735e4d806e,Gasmet,2023-05-05T06:51:11.113Z,055cd323-3464-45b0-b1bd-50769667a039,ZZZ,Albania,al,551112228682671,Gasmet,Facebook
+d8ba1bc9-74d8-49d8-a052-a6024b21af54,Real exclusive video 004,2023-12-02T17:13:53.659Z,5bbef56a-604b-4b2e-bbf6-5e37ba605510,ZZZ,Albania,al,157320914139334,Real exclusive video 004,Facebook
+deb0ea63-1ca4-4ea9-9dfe-c84ef809b057,Kionina,2023-02-27T10:51:32.055Z,fd5ed66f-cd4e-4a98-baf0-7385ee046f59,ZZZ,Albania,al,100810229113872,Kionina,Facebook
+ae27932b-a5e0-4cc6-929e-e02024f50ab0,CaezArts,2023-08-05T05:06:15.007Z,30df0e29-b201-4e5b-b552-202685903957,ZZZ,Albania,al,107534098205064,CaezArts,Facebook
+b78b35ba-d451-42d2-ba35-a426028a7b6a,Zoom.al,2023-02-07T15:04:59.316Z,ad778756-1e8b-4bca-9312-6d326390bac0,ZZZ,Albania,al,454166740477,Zoom.al,Facebook
+e8ffbb95-7c17-4598-b696-f8c7f518a0e7,BBTV,2023-02-13T10:51:41.274Z,fc45319a-c8e4-4257-88ff-a7dd0e73f5d6,ZZZ,Albania,al,136515966360349,BBTV,Facebook
+b430d84b-c85c-4de1-b8fa-b1c111f59b61,alphatradesoptions,2023-02-19T10:51:46.031Z,5b4debae-3111-4a78-9455-faaee3be129a,ZZZ,Albania,al,109312380991065,alphatradesoptions,Facebook
+840d6a72-33f2-476a-b097-561f6931c1af,Circulationes-US,2023-09-08T05:05:27.894Z,ae7c079f-50a9-4753-883b-a157a6ca1327,ZZZ,Albania,al,112564491905528,Circulationes-US,Facebook
+e0ca947b-b1d9-4fd9-ae49-10abc845da68,MAJESTY Skis,2023-11-27T05:05:32.549Z,0bfff68d-8129-4963-9ed7-1fcc0b249ba6,ZZZ,Albania,al,74487409208,MAJESTY Skis,Facebook
+b7e581df-d23f-4b52-813a-dbf31e286171,BDM Circus,2023-07-26T05:07:17.602Z,f19c43ee-e903-4b38-ad63-22910cad3c41,ZZZ,Albania,al,116162978080188,BDM Circus,Facebook
+b5b3336b-f087-4846-8cc3-d2d3d1674821,All Green Centre,2023-02-24T10:51:33.619Z,a17289be-5d52-4dd4-bd03-eb14941265dd,ZZZ,Albania,al,109553513964551,All Green Centre,Facebook
+49c63869-f1dc-4be3-99fd-435d5448eed1,Ken Bediako - This life of Sports,2023-05-12T06:51:22.518Z,6f0bc59b-c922-4494-878e-35bd53ef9e66,ZZZ,Albania,al,109355431916263,Ken Bediako - This life of Sports,Facebook
+ed61d8b5-f3da-4119-b89d-b3291727362c,Fang Xinyan,2023-12-06T05:05:24.787Z,7d3b8779-09db-44eb-abae-bd0d6cc42529,ZZZ,Albania,al,109058985571302,Fang Xinyan,Facebook
+f4954435-5e50-4627-8fa4-ae77d8ea018b,Abraham's Oasis Ethiopia,2023-12-01T05:05:32.253Z,9eed94ed-96a2-4d4f-8656-2038d46a49ef,ZZZ,Albania,al,1061335637252439,Abraham's Oasis Ethiopia,Facebook
+b4114b3b-f4b8-45ea-85fb-8b4c8781f638,𝙏𝒊𝙚𝒎𝙥𝒐 𝒅𝙚 𝙈𝒖𝙟𝒆𝙧 𝙄𝒏𝙘.,2023-12-07T05:05:21.469Z,ad426c5f-739e-4ecc-88b4-633f738061ea,ZZZ,Albania,al,670081116392846,𝙏𝒊𝙚𝒎𝙥𝒐 𝒅𝙚 𝙈𝒖𝙟𝒆𝙧 𝙄𝒏𝙘.,Facebook
+03ea61ac-5229-42b6-97ee-2d3c8d397338,Entertainment Boulevard,2023-07-17T06:30:37.907Z,e84ebfbe-8341-45e8-8e08-3822765c70c7,ZZZ,Albania,al,113881408205957,Entertainment Boulevard,Facebook
+cace7f21-80a1-4061-a107-80e11277f1a7,Susan Smith,2023-11-13T05:06:14.080Z,10262d8c-0f40-4ea0-9cd1-9763cea94f6a,ZZZ,Albania,al,137030692821876,Susan Smith,Facebook
+cc694744-e6f1-48df-b777-ac62d3b8627d,Parkinson's Europe,2023-11-17T05:05:14.571Z,bb64bb45-b27a-4c8e-adcd-e2c04f0a491a,ZZZ,Albania,al,159164110761833,Parkinson's Europe,Facebook
+07b2f0b6-9974-4f81-92c7-4de7ae2141e4,Blue Sky Printable Arts,2023-09-17T05:05:16.597Z,c3275129-16fe-43cf-b353-a2fe87dc5ada,ZZZ,Albania,al,114868514988424,Blue Sky Printable Arts,Facebook
+f18771d1-3b36-4b62-8c32-aba1a55d12ac,Shane Mahoney,2023-04-23T06:50:59.905Z,b9ffb54e-131e-4d90-9601-e4295abd22ee,ZZZ,Albania,al,369479089905524,Shane Mahoney,Facebook
+7edd57da-e8c0-4eb4-b756-dd623fcefddb,Up to celebz,2023-04-19T06:51:20.408Z,fc52a911-5dd2-4268-872e-66772d07de50,ZZZ,Albania,al,110360188413456,Up to celebz,Facebook
+5d47f51a-b491-47cb-a187-40f16445bf16,judytapapp_art,2023-09-17T05:05:16.574Z,02b9775d-ecb1-4e24-9482-e8ec8185219a,ZZZ,Albania,al,102321582172843,judytapapp_art,Facebook
+694a5d6b-5aee-451e-bed7-4655733c1955,FIBA Foundation,2023-07-05T06:05:41.532Z,07af4f2f-0b16-4974-8822-f85b168a8d88,ZZZ,Albania,al,1445973742181633,FIBA Foundation,Facebook
+9120f2a0-ffe1-45fc-9e32-68b928bd7635,avokate_mirjana_cani,2023-03-08T16:49:21.122Z,06a0e415-f397-4d7a-b9f5-c68bb1b9f983,ZZZ,Albania,al,107383661638065,avokate_mirjana_cani,Facebook
+fbee001e-ff05-4b42-8123-80688a32a16f,Majoritas Academy,2023-08-26T05:05:20.650Z,a773f8ed-4c8c-4e9f-b990-971f8e0fafad,ZZZ,Albania,al,113287678435662,Majoritas Academy,Facebook
+582ac003-b59c-4c52-b64e-c52e20ebd83c,Earth Savers,2023-06-19T18:23:22.522Z,ce108ec1-11b7-401f-b6a1-554c0d15880a,ZZZ,Albania,al,104614299337071,Earth Savers,Facebook
+c06e6c8a-8c62-4264-9ae3-09b49f55aa48,TD_BN_Find u more pleasure,2023-07-08T06:05:49.393Z,9529c682-7b0c-4141-8495-b74e38f9ce13,ZZZ,Albania,al,113813481747390,TD_BN_Find u more pleasure,Facebook
+043a4d40-b4ba-46ba-bd41-f5d492bd5010,Free Palestine Together,2023-11-19T05:05:09.610Z,29407e41-44ec-4277-a789-daad27027912,ZZZ,Albania,al,132737856598686,Free Palestine Together,Facebook
+eb9cd501-4e18-46b4-9fe3-95663b2d1e07,Nashevremyazzz,2023-10-22T05:05:26.738Z,61fcdcdf-55da-4874-8b92-671c07979da4,ZZZ,Albania,al,144093318785991,Nashevremyazzz,Facebook
+156a22d1-7085-4d11-9b7a-0a1bdc555b8e,IslamInSpanish,2023-07-11T06:05:53.164Z,efd39595-2cd8-441a-a512-56cfa742dc70,ZZZ,Albania,al,180520171996876,IslamInSpanish,Facebook
+ca83b3ef-bbc3-46b0-b910-1f1333b03440,Excitees-UK,2023-09-06T05:05:20.578Z,d16cd11f-122f-4b43-adbf-852cb9726087,ZZZ,Albania,al,110216212167317,Excitees-UK,Facebook
+75982b79-9160-427f-a0be-09b936851ead,Cisco Networking Academy,2023-10-24T05:05:22.077Z,7dde1312-5072-4d41-b0aa-ea20962b4291,ZZZ,Albania,al,190010265716,Cisco Networking Academy,Facebook
+4fdb9538-00f3-4595-af8f-a407336bd232,Mainment GmbH,2023-07-06T06:05:52.110Z,b33a162d-36da-4c0c-a8b9-52695eaddd92,ZZZ,Albania,al,1434469016796652,Mainment GmbH,Facebook
+8dfdb386-7a75-4e40-a1a7-292f2138370f,Point Proxy-Page2,2023-06-11T06:51:15.319Z,31c7f01f-706c-4258-b5e6-bcd29401d204,ZZZ,Albania,al,116349981428538,Point Proxy-Page2,Facebook
+e1203500-fa84-4270-a35c-af923d5accce,Pyrpose,2023-05-10T06:51:32.816Z,51b0b05c-535d-4ee3-b84a-c9018edcff88,ZZZ,Albania,al,100200532855012,Pyrpose,Facebook
+b7bc5c5f-a8cd-4bd5-b810-d49f38fb2e4a,Ananda,2023-05-01T06:51:10.234Z,0dd5117c-c51c-4856-94ca-194c1c2fa838,ZZZ,Albania,al,114826394903822,Ananda,Facebook
+ba822697-8c7c-460d-aff2-9cde15f3bcb6,ChidoBook,2023-05-04T06:51:18.523Z,5c92fd9e-58af-459b-8de9-f76fae6e6284,ZZZ,Albania,al,110993941170214,ChidoBook,Facebook
+02629f7e-bb63-4e7b-89c1-dee3e9243514,Universiteti Polis,2023-12-02T17:13:53.598Z,b61b7412-0ece-4330-bc92-d77d019be312,ZZZ,Albania,al,115596881841502,Universiteti Polis,Facebook
+df2a18d5-4973-4f8a-9981-3409aa53cfd2,bardhspahia,2023-02-28T10:51:38.416Z,4ea29051-e93b-4907-960d-381dc27ec7d0,ZZZ,Albania,al,111807418234734,bardhspahia,Facebook
+2fb4e439-efec-424d-8cd9-682c1e5b6c6a,daniel.hrts,2023-03-03T10:51:30.856Z,67262353-96a8-4738-b9e1-73ed0953c6a3,ZZZ,Albania,al,106770895646817,daniel.hrts,Facebook
+d8d3aacb-7064-40f6-8191-fbc097afa305,Wire Tool,2023-05-23T06:51:20.600Z,2f5b9b6a-1b46-4b4b-852b-39967f7c403a,ZZZ,Albania,al,107706102295108,Wire Tool,Facebook
+6e5dcc63-ac19-494d-b374-33fe445f95e3,Zoetic Carbon,2023-11-20T05:05:39.147Z,6738b688-1165-48fc-99b0-9ded08412e83,ZZZ,Albania,al,108500468710472,Zoetic Carbon,Facebook
+5976e2ca-afa1-4e6e-9f26-68d1564fea81,Globe2day,2023-07-05T06:05:41.500Z,746e2a06-6d06-4f04-8b4a-3302ff929b44,ZZZ,Albania,al,102209136205175,Globe2day,Facebook
+d8f6448d-2ac0-4ecc-817e-f4e72490b904,Seleções UModel,2023-09-22T05:05:21.561Z,db99fa78-c954-40c6-bde0-761dab98a61d,ZZZ,Albania,al,151927291879160,Seleções UModel,Facebook
+a093fe94-729b-451d-b921-c95552718c19,Bici Multiculturnurses,2023-10-30T05:05:19.100Z,b13cf8dc-73ac-41a2-bacb-85a8a498d13e,ZZZ,Albania,al,222414171826820,Bici Multiculturnurses,Facebook
+d2acfc25-70c3-433e-b097-c30ec2cad840,Mayekoo,2023-06-09T06:51:17.200Z,c3d6264c-1911-4f4a-a25b-4221c2d54145,ZZZ,Albania,al,107555398907550,Mayekoo,Facebook
+94ecac40-024f-4367-9551-5f498d430386,AOS-Albanian Ornithological Society,2023-11-06T05:05:12.498Z,c578fa0c-4eb8-4685-8f6d-190c4977e7c5,ZZZ,Albania,al,518150955005769,AOS-Albanian Ornithological Society,Facebook
+3e5e870d-1606-4cfd-affc-c14c1f4daf0a,Pompeii - Parco Archeologico,2023-10-30T05:05:19.172Z,73a85268-dcd4-4d03-a57e-36abf85655fb,ZZZ,Albania,al,1472204356420111,Pompeii - Parco Archeologico,Facebook
+43e4829c-44d1-455b-9fbb-9d5518e9b9d9,Minbar Al Aqsa,2023-10-31T05:14:17.633Z,f0779b70-4b5f-4b2c-a20a-f7cbf9a9c636,ZZZ,Albania,al,100720062883109,Minbar Al Aqsa,Facebook
+9ca29070-c9c3-4136-b1fc-82e86fe9f169,KOROLOVA,2023-02-28T10:51:38.442Z,5b76eb75-ebed-4484-bb92-adf0cf052cb5,ZZZ,Albania,al,323163344709286,KOROLOVA,Facebook
+3b5404ea-a686-46d4-b4b8-2ea581f11f29,BH Fans,2023-03-04T10:51:36.876Z,e84ec36f-f355-405e-8e9d-9d132b67e0bf,ZZZ,Albania,al,105335439164528,BH Fans,Facebook
+7a58e0c2-2505-46d9-ba7f-be3f62cddea6,J-Flag,2023-03-07T10:51:29.317Z,09ac64f7-3c60-41c1-89f9-09be7f57dab8,ZZZ,Albania,al,96340216669,J-Flag,Facebook
+e35559e3-063f-40d6-af3a-917e2a96586e,Camfil,2023-02-17T10:51:21.961Z,18475610-2bbf-4fd8-aa95-a248143be8a4,ZZZ,Albania,al,145348432198036,Camfil,Facebook
+61abbf6d-fb6d-44e6-819b-1788bd9caaa1,Sahelia Solar Officiel,2023-03-09T10:51:38.881Z,d4545f37-f983-41db-9466-4ff894f641db,ZZZ,Albania,al,305116906990763,Sahelia Solar Officiel,Facebook
+96e6c203-ec84-4543-b7a5-8b83cbcf4bb0,Boot Camp Digital,2023-03-12T10:51:27.608Z,7145c3c6-cc4a-45f2-b5b3-ec2b26f9b421,ZZZ,Albania,al,318711818130,Boot Camp Digital,Facebook
+43649a93-2b17-47af-83b2-e7d9893d376f,Shkodra Design,2023-03-14T10:51:12.057Z,3ea0ddff-12eb-4d80-a0f2-82df23466458,ZZZ,Albania,al,636844913031100,Shkodra Design,Facebook
+b690e254-89f4-4759-be7d-485833417cd2,Bee Viable,2023-03-18T10:51:21.629Z,0c1d7314-7b22-40f3-9f1e-55a1f9265723,ZZZ,Albania,al,112173785152601,Bee Viable,Facebook
+ca53352b-8e49-4223-b788-355170231728,CSGI,2023-03-21T10:51:12.952Z,2705fff5-db17-4e6c-890e-737de9775ed7,ZZZ,Albania,al,107574164472383,CSGI,Facebook
+c6ba4664-585b-4f45-89fa-4693074ebfcf,Palastine / Gaza,2023-11-16T06:56:49.580Z,e6037a32-84e6-480e-b0f4-1ff1e85bcba8,ZZZ,Albania,al,114461111714326,Palastine / Gaza,Facebook
+e1acae4a-c613-484b-8c62-3a3a54014484,Shopadora,2023-03-24T10:51:32.607Z,b0cb1bc7-b258-4b66-aa9f-eaaa8bfc80e9,ZZZ,Albania,al,106899698784461,Shopadora,Facebook
+8359a051-11a6-4d82-9c13-d90cae5daa2a,Una ragazza pechinese,2023-03-30T10:51:20.525Z,0a196691-59c1-4747-84a4-f4bf62fb19d7,ZZZ,Albania,al,102780722682542,Una ragazza pechinese,Facebook
+e85e4825-1c10-4ce2-a011-40e1bc372f47,Powder Metallurgy China,2023-04-01T10:51:10.473Z,74149531-d2e8-44d5-9ee1-c3c7d294c1e9,ZZZ,Albania,al,262263887705714,Powder Metallurgy China,Facebook
+cb9b9316-5492-421f-b63e-4d66885fb0d4,KTCHNrebel,2023-12-04T05:05:31.100Z,7122ef72-0c9b-41f7-a707-945ec2191d05,ZZZ,Albania,al,2077220615925978,KTCHNrebel,Facebook
+d5a65e9d-65ad-4b3e-851f-c0d34e7ab98c,Empresarial Iberoamericano,2023-03-29T10:51:26.918Z,0c3ed98f-1e7a-4327-9cad-8cb5fa1e4400,ZZZ,Albania,al,106852952352880,Empresarial Iberoamericano,Facebook
+8e6ea3b5-2a15-47de-acf6-e20b3ccc01c7,aestheticapitalism,2023-04-04T10:51:33.092Z,6a0daa39-cdd3-4b4f-bd48-838aa1d264c4,ZZZ,Albania,al,107437072296677,aestheticapitalism,Facebook
+2dc3ceaf-2f7a-467d-abfb-79d06625b153,Zhaklina Rira Consulting,2023-04-08T10:51:27.770Z,e5c65585-aba7-4793-972e-819b3d4e47d1,ZZZ,Albania,al,317165628642618,Zhaklina Rira Consulting,Facebook
+a8be0020-e3e8-4cf0-9a24-b5255076b147,Mercy to Humanity - جَمْعِيَة رَحْمَةً لِلْعَالَمِين,2023-10-15T05:05:21.503Z,8563ca1d-3831-4428-858e-9bc0e6c95b67,ZZZ,Albania,al,106479017486767,Mercy to Humanity - جَمْعِيَة رَحْمَةً لِلْعَالَمِين,Facebook
+d635e9fe-9e62-48b5-a568-ba2c42eb1d20,PMD - Dogs is my  world,2023-05-06T06:51:36.083Z,31c2591a-3656-4c27-a12c-d2dd2f05dc36,ZZZ,Albania,al,113067177682259,PMD - Dogs is my  world,Facebook
+cf13a9f0-a83f-4727-afe3-2d075d2dd9b0,Alkhidmat Foundation Pakistan,2023-10-19T05:05:21.906Z,761b2c83-7770-4e07-b37a-d362a4715e74,ZZZ,Albania,al,178893565567457,Alkhidmat Foundation Pakistan,Facebook
+67ac42c9-717a-4696-8394-00296beebeab,United Nations Alliance of Civilizations (UNAOC),2023-05-12T06:51:22.485Z,bc5de4f0-792d-4366-9de6-013836d4c40b,ZZZ,Albania,al,102513299836949,United Nations Alliance of Civilizations (UNAOC),Facebook
+d9b4c028-7d12-44d1-b71c-089650d87c3c,Biosan Pelet Sobaları 3,2023-11-09T05:05:17.539Z,43419534-cfa7-454d-b19c-31ba57c8f167,ZZZ,Albania,al,147990475062371,Biosan Pelet Sobaları 3,Facebook
+14d179e3-69d3-491e-aecd-1bd6268a5311,The world of reader,2023-06-30T05:06:04.144Z,0247dc3c-b4d5-4dd8-9bb7-ce71054a2094,ZZZ,Albania,al,101082842736363,The world of reader,Facebook
+aa2d810f-ca49-4449-b4f8-69db01eb701e,Palestinelivesmatter,2023-12-17T05:05:24.045Z,e8d99b4c-d1cc-45a3-bc52-c486cd1f542f,ZZZ,Albania,al,166762609859701,Palestinelivesmatter,Facebook
+b6260d90-36eb-474e-92b6-f1955511b371,World Kidney Day,2023-09-18T05:05:20.824Z,fb70ca9b-6745-4984-93e0-aee181184ec3,ZZZ,Albania,al,226563870834413,World Kidney Day,Facebook
+5f2f318a-5c5d-47bc-91fb-d585674895e1,월드프렌즈코리아,2023-10-30T05:05:19.153Z,ec05702f-bcba-41e2-9034-d481b22d04a6,ZZZ,Albania,al,173091762749108,월드프렌즈코리아,Facebook
+2e70c7cf-ea2c-4e5b-9b00-0b382c19d35c,BBBgamers LiveShow,2023-06-09T06:51:17.209Z,87c8c275-1d06-429d-bc76-322cb123a006,ZZZ,Albania,al,135073411731685,BBBgamers LiveShow,Facebook
+6ab26453-d515-4ca8-9e05-aaeb82fefcdf,Aprendeyemprendeonline,2023-05-01T06:51:10.298Z,946ccb2e-72f8-48e3-a9ca-9fa9006feb9f,ZZZ,Albania,al,102280836150692,Aprendeyemprendeonline,Facebook
+601977b8-8538-4247-8f50-3f0658f36562,Achievers Must,2023-10-19T05:05:21.884Z,0e3cb4b1-8c7c-43ff-a364-a0266d0160d5,ZZZ,Albania,al,104931595013425,Achievers Must,Facebook
+d95b7aa2-1997-4857-97f9-6bd2dedde1cb,EU4Municipalities,2023-12-02T17:13:53.617Z,6880df09-29da-4c18-9185-e79362b8a23d,ZZZ,Albania,al,102581128797964,EU4Municipalities,Facebook
+b544051a-4bf4-477d-b358-488ffece0dcc,Golden Gate Sports,2023-02-28T10:51:38.441Z,756490e1-62e0-4f84-9742-ca1d40890acc,ZZZ,Albania,al,121134828035788,Golden Gate Sports,Facebook
+ab0c2211-286f-4cd9-a7cf-7e4966acbf92,UAID foundation,2023-03-03T10:51:30.880Z,eccc91c2-5611-437b-b167-b760e88d35e0,ZZZ,Albania,al,108142008555145,UAID foundation,Facebook
+e91aafa8-b0f2-4b61-8251-452f16ef2a6b,America First News,2023-03-07T10:51:29.284Z,fd18b006-6ac9-422a-a94c-55c22d5b2c81,ZZZ,Albania,al,105401362444586,America First News,Facebook
+14779742-397c-470b-9464-cca6dca87c56,Information Society Group,2023-02-08T05:54:33.222Z,69685787-17a7-4858-815d-78524ca3237c,ZZZ,Albania,al,771851256242082,Information Society Group,Facebook
+d61f94b3-674f-461f-9438-433161718370,Foundation for Access to Rights FAR  Фондация за достъп до права ФАР,2023-03-08T17:10:20.394Z,1096ed9e-c81a-4629-98e5-75d4d7abfe08,ZZZ,Albania,al,1381160952118444,Foundation for Access to Rights FAR  Фондация за достъп до права ФАР,Facebook
+a7617b3b-5fd1-490c-856d-768160e88ecf,Terre Spezzate,2023-03-11T10:51:36.372Z,a6b21f4d-03b2-4cfd-809e-ac65c48cb81c,ZZZ,Albania,al,1580121415539445,Terre Spezzate,Facebook
+787063e0-9337-49be-a710-77a3ca1e58d7,TAP Air Portugal,2023-03-12T10:51:27.610Z,3b52bde7-0c1d-47c6-a36e-3ca42a7bff09,ZZZ,Albania,al,1899205393647099,TAP Air Portugal,Facebook
+529e6d74-fec8-48af-93ce-410c41bbde66,Safe Journalists,2023-03-16T10:51:36.988Z,50c49c8e-9239-483f-9e41-d89005814230,ZZZ,Albania,al,1790876521175258,Safe Journalists,Facebook
+2b7cd082-e118-4810-b180-e387a65f7ad6,Frederico Santarém - Investimentos Lucrativos,2023-03-20T10:51:20.628Z,48815b86-6489-4c0b-93cf-29bc0a1d2fa0,ZZZ,Albania,al,100510664697134,Frederico Santarém - Investimentos Lucrativos,Facebook
+032cfb2a-8a87-41a1-baa4-71d01d085c71,Gazeta DITA,2023-03-24T10:51:32.588Z,9791d4c9-7bf7-4c6a-bb60-3704434b4d13,ZZZ,Albania,al,300007380105476,Gazeta DITA,Facebook
+bd61096e-11be-4aa8-9bf5-0412e3521921,South East European Network for Professionalization of Media,2023-03-26T10:51:13.770Z,e2ebb6e1-7349-46d2-918c-cf85f6b0843c,ZZZ,Albania,al,502629179923681,South East European Network for Professionalization of Media,Facebook
+463e26e2-8ea1-44ff-9809-e9291b945660,Mladiinfo,2023-03-28T10:51:26.336Z,de49ac31-c39a-48d6-8dfe-dc781b4d3060,ZZZ,Albania,al,185149939700,Mladiinfo,Facebook
+a6531590-186f-4a9d-a7b8-4d9e5bd90f47,emas_light,2023-03-31T10:51:33.080Z,27b7dcb3-695f-4c31-bca5-22a9acc28e99,ZZZ,Albania,al,105847421117217,emas_light,Facebook
+48463881-7267-4ab7-85c6-ebe0a0a47123,International Workcamps,2023-04-02T10:51:34.355Z,eee6ff48-6950-4a60-9e11-9a12619605b2,ZZZ,Albania,al,100499642559983,International Workcamps,Facebook
+688cc768-aec0-4255-b1d7-1afb9d30ac36,EcoVibes,2023-04-07T10:51:26.709Z,15f110a0-1465-4595-9908-f32e4eb4fd2b,ZZZ,Albania,al,116765898032020,EcoVibes,Facebook
+e3607246-75ac-4d1e-b4a9-833563e6c7fa,Jing Daily,2023-03-31T10:51:33.143Z,1acb8642-5411-46f8-aea8-ebdd4a218ca9,ZZZ,Albania,al,315543515306,Jing Daily,Facebook
+4e7d627d-3cf5-40ef-96c1-af0963e8547d,International Recovery Platform,2023-04-05T10:51:23.171Z,2f1ca18c-d78e-4717-b363-908b655cc4da,ZZZ,Albania,al,146131622116745,International Recovery Platform,Facebook
+44a02321-f3c0-4acf-b61a-97f8f9a73bdc,Meetings & Conventions Asia,2023-04-09T10:51:28.643Z,fbc0efa5-3ead-458d-b3a2-90509281fd6a,ZZZ,Albania,al,486573454844802,Meetings & Conventions Asia,Facebook
+df1a6ae6-f7aa-4bb0-9ffa-724577505b92,"Department of Food and Resource Economics, UCPH",2023-11-18T05:05:26.961Z,f506c299-fa51-427d-9ae8-909df00ad040,ZZZ,Albania,al,110651260470029,"Department of Food and Resource Economics, UCPH",Facebook
+d42cd487-ab22-4ceb-b57c-041d7b6eadfe,Dj Nandi,2023-05-07T06:51:08.685Z,f7c37c87-e4a5-4b49-bf6c-25ff1d297621,ZZZ,Albania,al,287214749737933,Dj Nandi,Facebook
+8ab8d944-edac-4285-ba84-7c4e3833c194,African History,2023-05-11T06:51:52.468Z,22a5ce6c-e8b5-4110-8a8e-26defd12f544,ZZZ,Albania,al,886617328031302,African History,Facebook
+36cbe203-3caf-4154-8f79-0c36ecb32b4e,Active active,2023-05-23T06:51:20.597Z,69c470dd-0a3f-468a-8de8-2f5fc69035fc,ZZZ,Albania,al,100427526341454,Active active,Facebook
+98084b32-8b64-47dd-8fd7-95f8c9c379f9,Society of Petroleum Engineers,2023-06-28T05:06:22.312Z,059f049f-4344-482d-beca-bdebfdea8411,ZZZ,Albania,al,58691098550,Society of Petroleum Engineers,Facebook
+c14c7cfb-9d32-419c-8ad3-ca6bc564f075,Wearegza,2023-12-16T05:05:33.165Z,7498ac1c-ae6f-4b6e-964f-5ffa2cb967e6,ZZZ,Albania,al,160849653785444,Wearegza,Facebook
+564922b0-9ac6-4545-8f1d-ba001419b317,Albanian Community Centre - Qendra Komunitare,2023-12-13T05:05:37.602Z,bade699f-612e-4b13-9902-aa6c310acbb4,ZZZ,Albania,al,103748486460505,Albanian Community Centre - Qendra Komunitare,Facebook
+775ea81d-b2b2-4660-89af-8740cafcaa20,A hug to an IDF soldier,2023-10-23T05:05:06.865Z,7efa5fb0-f762-41c7-9584-13fe22919280,ZZZ,Albania,al,148235585038794,A hug to an IDF soldier,Facebook
+341fa1ce-17c2-47b2-9ac0-ca675ee54812,jonida.teli,2023-10-18T05:05:27.039Z,dffce77c-9911-4754-a859-69377363991e,ZZZ,Albania,al,108702615023464,jonida.teli,Facebook
+afbdb8f7-30d7-4a1f-a2f3-d45716a9398a,Saranda Web,2023-03-11T10:51:36.303Z,335cf999-03dc-422b-96df-c52e0688d3bd,ZZZ,Albania,al,143672462471081,Saranda Web,Facebook
+b1400245-75c0-4c52-b1a3-4c719242fc3d,情報経営イノベーション専門職大学,2023-12-02T17:13:53.645Z,35b28232-4233-4a27-ba93-5144860cf388,ZZZ,Albania,al,399123090502456,情報経営イノベーション専門職大学,Facebook
+d0cd8426-fcc9-4467-9315-483d93e523e9,Campaigns for Humanity,2023-03-01T10:51:27.514Z,7d1abbca-7856-4f8a-9cdc-1f987a658eb1,ZZZ,Albania,al,116965184334608,Campaigns for Humanity,Facebook
+785a989e-0ff1-4178-ad14-cf9fd63c8fcf,Витоша Студио,2023-03-03T10:51:30.879Z,91b115ea-7b29-43fa-b732-fcd53b422976,ZZZ,Albania,al,110492914152511,Витоша Студио,Facebook
+3264cc25-547a-440e-9984-2bfa5e429c01,Fusion,2023-03-07T10:51:29.291Z,0f169c40-1b96-4e52-b085-d8851b1c8cf7,ZZZ,Albania,al,184998332872,Fusion,Facebook
+7959d2c5-0315-4cf2-aee2-5c5b4492883b,UW Iceland,2023-02-17T10:51:21.928Z,54ecea7c-7337-4b96-a74f-eb3e0f05bfcb,ZZZ,Albania,al,11070113987,UW Iceland,Facebook
+a04e275d-950d-4e4b-b303-989216848814,Halimi Law and Tax,2023-03-10T10:51:25.625Z,989f463c-4133-40c6-ac59-87fc60da3d78,ZZZ,Albania,al,243058543075309,Halimi Law and Tax,Facebook
+c766d102-19ff-467d-a3d0-ef454d41c3cc,The Rainforest Company,2023-03-12T10:51:27.575Z,bad70d74-2edc-4f00-bbf8-557d222d848c,ZZZ,Albania,al,398067980552180,The Rainforest Company,Facebook
+f56d8d17-b94c-4988-bf07-8d047e98a7fd,NovelReader,2023-03-13T10:51:19.786Z,ff545fa1-78a2-4789-976e-bb8eebcc9364,ZZZ,Albania,al,102838882271105,NovelReader,Facebook
+63ed3761-7813-4fc8-862a-933b0c6d8bb7,قراءات إفريقية,2023-03-17T10:51:38.396Z,0d3e0ba2-1d62-4c30-ba1d-6a65179a3e45,ZZZ,Albania,al,207514629334623,قراءات إفريقية,Facebook
+8b4ea57b-a2ba-49ab-9195-2d64430aabb4,Инфограф,2023-03-21T10:51:12.940Z,43b19741-3eb8-43bc-bb58-451264ebf1a0,ZZZ,Albania,al,114247604036354,Инфограф,Facebook
+42afa80a-9aaa-42c6-8fcd-e724d7303b13,Ilir Meta,2023-03-25T10:51:10.659Z,0b1b4810-ea63-40fd-ab91-4bff268ced40,ZZZ,Albania,al,1477517792294489,Ilir Meta,Facebook
+d11da8de-8b34-4261-9f49-1f3fd61ab488,Dre4628-MeReading,2023-03-23T10:51:28.851Z,a6c9eb23-ca91-469c-bcd4-4304e647afa7,ZZZ,Albania,al,118945884467733,Dre4628-MeReading,Facebook
+c6a21062-ad3f-436f-ba90-48d0ae6040ac,Exmork Technology,2023-03-29T10:51:26.917Z,b486e8eb-db33-4ad2-8ec6-a2ea4667dac1,ZZZ,Albania,al,100976675096468,Exmork Technology,Facebook
+213e0442-c5db-40cb-a555-b4ee1db3c2a4,Lantimar Group,2023-04-01T10:51:10.455Z,43cd7513-ae2a-4990-a4cb-2b3b1adcc34a,ZZZ,Albania,al,858951480829457,Lantimar Group,Facebook
+6949cd59-39a1-4d54-b277-883a967106c7,Tin Tuc Moi Nhat 24/7,2023-12-04T05:05:31.102Z,518549bd-0694-414b-99c0-d9c236b5bad3,ZZZ,Albania,al,179675048560463,Tin Tuc Moi Nhat 24/7,Facebook
+357a5c06-6c11-4b8d-89d9-c7da4273eb0c,Eastern Washington University,2023-03-29T10:51:26.920Z,bd76d2d8-f60a-424d-8714-00556acb5611,ZZZ,Albania,al,25035867040,Eastern Washington University,Facebook
+27a66dd5-4cc0-4005-8d10-8fff1964c258,Yu-58,2023-04-04T10:51:33.109Z,dc35d942-264b-4fc2-a5d8-a37a6ebeced8,ZZZ,Albania,al,107367052294027,Yu-58,Facebook
+1bc245b0-788d-455e-8e0e-0e14f3cefa9b,MaxMilano.com,2023-04-08T10:51:27.783Z,83115412-d116-4c37-a082-a179451c61db,ZZZ,Albania,al,1771977732887316,MaxMilano.com,Facebook
+12799872-79b2-4443-850a-c82f2ba329c8,Justice Center for Legal Aid (JCLA),2023-12-15T05:05:39.387Z,d432ef00-162a-4d47-83a6-01cb9e0ea52b,ZZZ,Albania,al,170433089662200,Justice Center for Legal Aid (JCLA),Facebook
+602e2859-71c1-42e1-80a7-7007ba5a6708,gjergjikollumbi,2023-05-06T06:51:35.958Z,ebd0f232-bbd1-4673-80ad-51d495255ae2,ZZZ,Albania,al,104060615967085,gjergjikollumbi,Facebook
+6aab1edd-e7f3-4d86-aef2-67493095153f,"Shurya - Meditacion, relajación y sabiduria",2023-05-10T06:51:32.859Z,72f6ab4e-9e65-4d0f-a013-bcdeb43211f1,ZZZ,Albania,al,561815680508842,"Shurya - Meditacion, relajación y sabiduria",Facebook
+71c4aed6-3644-47a4-81ba-ad014972029f,Gruppo Colle S.r.l.,2023-05-13T06:51:22.709Z,633c51a2-2ee9-4d0a-b850-f8543e5e6a72,ZZZ,Albania,al,150498365045300,Gruppo Colle S.r.l.,Facebook
+2ba282ff-7861-4af5-b0e9-c13b98a83b3a,三千前,2023-06-10T06:51:17.498Z,39a894c9-3ca3-4095-83f8-4b6172daa6d9,ZZZ,Albania,al,104929975434365,三千前,Facebook
+ae25caa7-d5be-4405-a5d5-3f0e8e6171e5,GARD,2023-12-17T05:05:23.985Z,e2db9edc-38e3-472d-ac5a-4e34a8588c25,ZZZ,Albania,al,115358221490031,GARD,Facebook
+8164ed15-82fe-471f-97b8-ac3ff818c34a,8design_jewelry8,2023-07-03T06:14:15.799Z,8e6cfeed-cfee-432f-8289-587af7fbbb3a,ZZZ,Albania,al,101728692882555,8design_jewelry8,Facebook
+524376f7-235e-4978-9491-cfae0f51708a,History in Number,2023-05-05T06:51:11.093Z,5ea630f1-e544-4404-8fbf-77459f6dc1d8,ZZZ,Albania,al,102952309457793,History in Number,Facebook
+e7a973bb-bc83-4aa3-b99f-ffc242a3155a,BBD,2023-03-12T10:51:27.575Z,f66bf669-5227-4643-9b5b-43d172eebccf,ZZZ,Albania,al,322599777438,BBD,Facebook
+8e4bc350-a696-4835-9c0d-98958416c142,Nisma #Thurje,2023-02-26T10:51:37.766Z,7107ff88-2fc4-434c-a206-58e4dd210270,ZZZ,Albania,al,165747223634454,Nisma #Thurje,Facebook
+2ab4cb44-8949-4960-ba25-d08a304f8c84,imageplayground Camera shop,2023-03-01T10:51:27.561Z,05c89575-97c1-4d36-8079-593707946dec,ZZZ,Albania,al,127963254019029,imageplayground Camera shop,Facebook
+4cf5593f-f45a-4e15-81f8-f62fedce83e1,The GCCA,2023-03-05T10:51:39.263Z,fe2ae8d6-8e3d-4208-948f-ded4570ddafa,ZZZ,Albania,al,351671375760473,The GCCA,Facebook
+fe8bdf40-3985-44bc-a659-c56e7e244ab9,Res Publica,2023-03-08T16:08:09.780Z,e303e841-5713-4b99-bdb5-cebba125bdf2,ZZZ,Albania,al,159862327379761,Res Publica,Facebook
+b4690d92-63af-4a5c-9d9f-923f2f14ec08,NZ Amyloidosis Patients Association,2023-02-19T10:51:46.023Z,225d48a6-c25c-4344-ad7c-7a14efd65517,ZZZ,Albania,al,557649021438259,NZ Amyloidosis Patients Association,Facebook
+0a2c2b59-8702-43fb-9ecb-15303544cdae,Wazoku,2023-03-11T10:51:36.353Z,c8d287de-5552-4958-9ee1-75a959f0c6a5,ZZZ,Albania,al,21552458050,Wazoku,Facebook
+cde6b49c-f5ea-4b07-87e4-8a558c52976a,Panairi Ndërkombëtar i Turizmit dhe Sportit - Tourism & Sport Fair,2023-03-13T10:51:19.765Z,48682bfd-c5a9-4d5b-a5d6-4df57dc1f6d9,ZZZ,Albania,al,1737138036519900,Panairi Ndërkombëtar i Turizmit dhe Sportit - Tourism & Sport Fair,Facebook
+bc4bd4a8-dbf4-4fe5-99d6-1f5da586d9f3,Milda Sabiene - Holistic Coach,2023-03-16T10:51:37.058Z,976b7c9d-551d-4305-982d-f7b2f10afc88,ZZZ,Albania,al,328734170817962,Milda Sabiene - Holistic Coach,Facebook
+4c2bfc62-4a0e-43f3-977b-e26f1583bdb3,Al Jazeera Balkans,2023-03-20T10:51:20.628Z,c0906e5c-60fd-4292-9c71-dbbcd6e11631,ZZZ,Albania,al,163724720379445,Al Jazeera Balkans,Facebook
+4c8cbdb0-8194-47f6-8c33-4483d0f628ba,Quantum Temple,2023-12-03T05:05:23.957Z,40a52d77-79a0-4394-b9c9-c14bb388e485,ZZZ,Albania,al,110768591279726,Quantum Temple,Facebook
+ac9ca5fc-2c1a-40cd-afdc-0c26b619a400,The Wisdom of the Journey- Home of the Sparrowhawk,2023-03-26T10:51:13.813Z,52d38a8a-0ece-42a9-a600-5fc1e21b22fe,ZZZ,Albania,al,102308409325361,The Wisdom of the Journey- Home of the Sparrowhawk,Facebook
+3b4ff995-9454-4d77-b35a-f42737d2e269,Lonely Orphans,2023-03-28T10:51:26.357Z,4ba00edc-12ec-4b7f-9166-0068d59e8115,ZZZ,Albania,al,275329719279317,Lonely Orphans,Facebook
+8315cd87-af09-4147-9e1b-e141196da2f8,My Friday Blog,2023-04-01T10:51:10.432Z,718eea8b-79ac-4f2f-90e1-010443f2c876,ZZZ,Albania,al,108548103868214,My Friday Blog,Facebook
+13346014-5a8f-4b17-9267-7e5146c5fbca,Экскурсии В Дубае & Оаэ,2023-12-04T05:05:31.127Z,c0e17fb6-af9e-4720-b472-8f77c0c69bcc,ZZZ,Albania,al,114618650398327,Экскурсии В Дубае & Оаэ,Facebook
+38b10895-36c3-4a11-a9b0-b3bf5eaa4661,INN WORD Revival Now,2023-03-29T10:51:26.898Z,766e7616-3187-46b0-8ba4-2c48bc8aac4e,ZZZ,Albania,al,100994765608411,INN WORD Revival Now,Facebook
+d62b6264-a4b7-452f-bdaa-da3c85c00946,Wsp57,2023-04-04T10:51:33.130Z,7ffac80c-f829-41aa-9926-fe855e242698,ZZZ,Albania,al,108472745503847,Wsp57,Facebook
+46561d9b-2b75-4e0a-89d9-48e2277e5705,Geeky Cap,2023-04-09T10:51:28.623Z,207e7f8c-f044-4aed-aecd-820971dc2ced,ZZZ,Albania,al,103190279412794,Geeky Cap,Facebook
+2dead7ff-566d-48ac-843b-8acf84049187,aerodrini_fitness,2023-11-18T05:05:26.929Z,675676dc-a201-431a-a08e-6979d76a3fea,ZZZ,Albania,al,103317191496088,aerodrini_fitness,Facebook
+cfcbe20a-e123-48ca-a1e2-578a6bb905ae,Shareably,2023-05-06T06:51:36.078Z,338513e1-7636-4da8-ba88-bcfd7708acfd,ZZZ,Albania,al,1556259461269806,Shareably,Facebook
+49b19576-d05c-4912-a35e-c5b3becaac94,Ebenezer is Marketing,2023-05-10T06:51:32.876Z,50624d76-9990-4830-93ec-04b39786f284,ZZZ,Albania,al,426799224176976,Ebenezer is Marketing,Facebook
+70c3492c-82e4-4027-8ed1-ecef48370fcc,International School of Ministry with Pastor Chris,2023-05-19T06:51:17.173Z,ddf35a3c-cc4e-4d58-8dd7-6f80b70a28fd,ZZZ,Albania,al,430258463820053,International School of Ministry with Pastor Chris,Facebook
+c98a6b48-a278-4c3c-a72c-d70a88788b07,ayshaearar,2023-12-18T05:06:06.465Z,0616fd8b-f2d2-43b0-93f9-ea6927bfab6d,ZZZ,Albania,al,100749313052274,ayshaearar,Facebook
+a2395276-05ab-47b9-b658-71c7cc5ed3a6,Aviation Training infoWerk,2023-12-15T05:05:39.422Z,47ff8c1b-e36a-461c-8c2d-e9ed2a03445f,ZZZ,Albania,al,114365597933775,Aviation Training infoWerk,Facebook
+b61cb3f5-5ca7-46c1-93ef-fdbf48008809,British Council Albania,2023-03-08T20:11:14.092Z,796ac2e3-34b6-4d32-a59a-d18888b1d17f,ZZZ,Albania,al,135587373179247,British Council Albania,Facebook
+8c5eae2a-acf7-42af-86d9-15988c9b18c6,Reelshort - Werewolf Stories,2023-10-31T05:14:17.646Z,85ef28b9-0d6d-41af-bf8e-cf7ce68d2259,ZZZ,Albania,al,104211779402901,Reelshort - Werewolf Stories,Facebook
+9889817c-4891-4ba4-b0cc-c9be0cb05d3c,Соціологічна група Рейтинг,2023-03-01T10:51:27.532Z,2b6b9ff4-f226-46b8-8e15-614f5dfbfacf,ZZZ,Albania,al,243972812353181,Соціологічна група Рейтинг,Facebook
+eb7dcab8-12c5-41f1-a878-b80795d10bc4,Freelancing.eu,2023-03-04T10:51:36.906Z,c8ccb5c4-7121-49b8-82f4-87c510c8de6d,ZZZ,Albania,al,105037117662156,Freelancing.eu,Facebook
+d7fb560b-1400-49bb-b121-1901baa1beec,GLOC 2023 - Global Space Conference on Climate Change,2023-03-08T10:51:33.788Z,29b47310-0500-41c9-bd41-418080ff2aea,ZZZ,Albania,al,102183939383012,GLOC 2023 - Global Space Conference on Climate Change,Facebook
+8ab20e1a-4f30-4bfa-8660-ebd60313849d,SANY Group,2023-02-17T10:51:21.946Z,74b8dc27-b50c-4a41-a444-d3ee04a109c7,ZZZ,Albania,al,213000859039052,SANY Group,Facebook
+4004be43-2f36-4bb3-a007-544842a1f1c0,The Script Lab,2023-03-10T10:51:25.626Z,2c1b57c2-6f2a-44db-af34-6d3b94b25d36,ZZZ,Albania,al,297004519250,The Script Lab,Facebook
+af2e7824-c53d-41ae-ad5a-f2e5446e1a7d,STEYR Traktoren,2023-03-12T10:51:27.610Z,6d601780-419c-4d6b-b585-c4813960a77e,ZZZ,Albania,al,148543868418,STEYR Traktoren,Facebook
+23d5defd-a007-447e-9d79-d965c1cd1780,Neta Auto,2023-03-14T10:51:12.137Z,b6374f21-bd7f-404f-a411-11bf0647ca7b,ZZZ,Albania,al,100654109495322,Neta Auto,Facebook
+76f7e5e8-0306-4b21-8fd8-9bfff4b985a6,MrSilly,2023-03-20T10:51:20.628Z,1ceb74ee-fdbc-4628-8690-80399773c93a,ZZZ,Albania,al,106190745640983,MrSilly,Facebook
+6a306d6d-5f09-41f1-a06d-15d8d82da51a,Astronomy Club of Kosova,2023-03-23T10:51:28.792Z,e3c13066-8a06-4611-9afc-7d361f724105,ZZZ,Albania,al,1406559962940728,Astronomy Club of Kosova,Facebook
+66e6c845-e12a-454e-88cf-9a98ef488523,BAR-TEK Motorsport,2023-03-25T10:51:10.705Z,a2258444-d15b-40f0-8303-e8c518f02490,ZZZ,Albania,al,175889425769412,BAR-TEK Motorsport,Facebook
+0699bc78-d23f-4061-9f0d-937cb0144b5e,Ecosystems2030,2023-03-27T10:51:33.129Z,45d12f3d-9e79-4cc7-b9e2-335cf7c18809,ZZZ,Albania,al,113335433357256,Ecosystems2030,Facebook
+476f44e9-8c57-4d00-ac62-09a1b0ee7ca5,Axel Arigato,2023-03-29T10:51:26.888Z,a568ff07-a53b-429c-b234-8d5417372b15,ZZZ,Albania,al,769095856453652,Axel Arigato,Facebook
+1d21dbd2-4c34-4954-9bde-94605b97c4f8,Powmr_Official,2023-04-04T10:51:33.082Z,dfbf6cac-ee2a-47a4-9f4a-adb3ffa8969f,ZZZ,Albania,al,102854792575685,Powmr_Official,Facebook
+ca5567d6-d23f-444a-9207-7d9d031c9582,A.K ArtWorkzz,2023-11-17T05:05:14.616Z,0a3287bf-7617-4ea1-9a98-799740656813,ZZZ,Albania,al,403244720511984,A.K ArtWorkzz,Facebook
+8f0a0abd-f5d8-4d3d-9e5a-99edd0c65056,Chopard,2023-04-02T10:51:34.431Z,2650f34a-0ecc-4656-9ee1-e5c9ed18a7e7,ZZZ,Albania,al,164432246934163,Chopard,Facebook
+1e556f4c-496c-428e-9314-dccba4f73adf,eeDesignIt,2023-04-05T10:51:23.181Z,e232bab4-a9b9-4f60-966c-332ecc49bcd5,ZZZ,Albania,al,128460617656602,eeDesignIt,Facebook
+8fd584ad-ce5c-405f-9be7-c03c09e92117,Caio_Vitor07,2023-04-10T10:50:54.877Z,58b10143-6a1a-4fac-8422-52a985aee64e,ZZZ,Albania,al,106649554035261,Caio_Vitor07,Facebook
+38509a99-98d4-47d3-a6c7-ad7d5d83aed9,Three Birds Renovations,2023-12-15T05:05:39.442Z,1f673af0-9b51-4373-8256-0a4252eaca59,ZZZ,Albania,al,908381849224592,Three Birds Renovations,Facebook
+5d787ac4-dcb7-4664-b30c-4c59cfb9defd,Advanced Trading,2023-05-07T06:51:08.722Z,42a4f97e-237c-433f-8813-7131f784d3cb,ZZZ,Albania,al,102072599470181,Advanced Trading,Facebook
+fb4688e8-325c-442e-bddb-226768e3b89c,Banyan Tree Hotels & Resorts,2023-05-11T06:51:52.495Z,4d48201c-92cb-4fd3-be2c-9fae4ab74f21,ZZZ,Albania,al,47815171686,Banyan Tree Hotels & Resorts,Facebook
+bfd0d541-a023-4c5b-a0bb-8635a4161558,אילת אנימלס,2023-11-09T05:05:17.426Z,0d037d7c-6a77-4d90-ad59-286032862950,ZZZ,Albania,al,200859690020228,אילת אנימלס,Facebook
+79be25c8-d6bc-4b3e-a625-f8c7c7175313,The Fuddhist,2023-12-18T05:06:06.501Z,af35f5b9-be81-4cb4-a3a1-66005b831e73,ZZZ,Albania,al,1566040593688735,The Fuddhist,Facebook
+eb4b0f1b-0da7-463d-930f-f09ca76832bc,Miracle Temple Church of Deliverance,2023-12-14T05:05:28.716Z,f5771b87-4fb4-4ca9-9273-cb9bb3c5c2fc,ZZZ,Albania,al,354779144955261,Miracle Temple Church of Deliverance,Facebook
+f97e612c-48b3-415b-9970-4755ec4e6b4b,Portali Lajmeve,2023-03-08T20:11:14.084Z,c0901c3a-dedf-4dd4-b73a-168b77938026,ZZZ,Albania,al,106653441469648,Portali Lajmeve,Facebook
+6432183b-6f9f-4e6c-af6d-79ec4f65edb0,China Says,2023-12-02T17:13:53.679Z,00fa9e70-ced5-401c-9db2-123bbff0dc03,ZZZ,Albania,al,101103628988991,China Says,Facebook
+661a1baa-7dba-44e5-bfe5-4fcdb8243fbe,Lab of tomorrow,2023-03-01T10:51:27.531Z,7c0a465f-f925-4ce9-b96e-a0e0540d8252,ZZZ,Albania,al,459236951079140,Lab of tomorrow,Facebook
+d1cbcffb-60af-4fed-b028-330aebf8a551,Visit Danzhou,2023-03-03T10:51:30.912Z,e3289717-d151-4883-b3ba-2f2cbcdb592f,ZZZ,Albania,al,103486405407498,Visit Danzhou,Facebook
+05b1e3ac-b442-4fd5-b641-07ab9e58c45f,Doors Travelers,2023-03-07T10:51:29.315Z,7cbccce8-cb42-4511-a686-35044720512c,ZZZ,Albania,al,101364076007366,Doors Travelers,Facebook
+3b0a1a1d-2a46-4fda-a976-20628960e92f,CRI Ελληνική Υπηρεσία,2023-02-19T10:51:45.992Z,03f3cf30-b499-43e3-95eb-776ffa819089,ZZZ,Albania,al,299704060194977,CRI Ελληνική Υπηρεσία,Facebook
+411cd3bf-0695-4ea9-ae69-739de889b38b,La Genovese Caffè dal 1936,2023-03-11T10:51:36.370Z,9451545d-32d6-4491-abea-b23ea0698627,ZZZ,Albania,al,95839109566,La Genovese Caffè dal 1936,Facebook
+f135b333-16b2-4cd1-b2b5-03c29ec15fb7,CBM Christian Blind Mission,2023-03-12T10:51:27.610Z,fd2ebaed-744e-4355-9cff-e463e523c45c,ZZZ,Albania,al,170951426275318,CBM Christian Blind Mission,Facebook
+6cbdc069-0f3b-4537-897b-a57731f83e40,ivcapital_global,2023-03-14T10:51:12.076Z,3146b4c1-2738-4f4e-9ba1-2e072dc74abe,ZZZ,Albania,al,104625515842353,ivcapital_global,Facebook
+8c4f4ac3-aa6f-43fc-af4b-03522debc60c,Saaraba,2023-03-19T10:51:21.029Z,f1f95306-ccec-452c-8094-88b77de575e3,ZZZ,Albania,al,103128059291677,Saaraba,Facebook
+d205ce44-ba07-499c-ad1b-39f8aaf390f9,Benny Kuriakose Associates,2023-03-23T10:51:28.829Z,b21cfc2a-28d6-4beb-9f46-d07327f77fe5,ZZZ,Albania,al,333426070147135,Benny Kuriakose Associates,Facebook
+dbc05e59-3ab9-4da5-8774-580ea71fa2c5,Chanderpur Group,2023-03-24T10:51:32.639Z,41e309e3-4203-4e39-aebd-8b38469f4c19,ZZZ,Albania,al,888507404545826,Chanderpur Group,Facebook
+6d708c79-1509-4565-bde9-d8ffc03b8a3c,CQURE,2023-03-21T10:51:12.970Z,30579685-e150-4792-86b1-ade498e385d3,ZZZ,Albania,al,134380809978892,CQURE,Facebook
+67f8e2a8-64ca-4001-8067-a94c6592a956,Interlitica,2023-03-29T10:51:26.889Z,0a3b7b89-33fa-43b2-a799-9a55e64ad2cf,ZZZ,Albania,al,116348888049995,Interlitica,Facebook
+c72393a4-90ce-48ff-8447-4cdd92265e8d,Teleflex,2023-04-02T10:51:34.393Z,f2faaaa5-346d-4bea-9048-242c049da7d9,ZZZ,Albania,al,163431977114538,Teleflex,Facebook
+9b61b26a-1e7e-41da-a2c5-557dc87b9c0b,The Gaza Emergency Relief Fund,2023-12-04T05:05:31.156Z,e4d8792a-1dd9-4ba5-93f9-3add4b278e11,ZZZ,Albania,al,159113317277982,The Gaza Emergency Relief Fund,Facebook
+9cc4b3da-4f15-43d8-9c7e-16e2ceca98e0,5 stars store,2023-03-31T10:51:33.115Z,5deed7b5-31d9-4207-8f59-98f9612e5e62,ZZZ,Albania,al,104903384689810,5 stars store,Facebook
+f997f0ba-4681-4004-ab4a-c76d84e23d97,Institute for Zen Leadership,2023-04-05T10:51:23.156Z,8aa19675-2290-48d6-a4bc-19c686541520,ZZZ,Albania,al,598865763613819,Institute for Zen Leadership,Facebook
+0a32f8ae-b9ab-4dfa-9488-72214f5cd6f2,Good Griffe,2023-04-10T10:50:54.827Z,9b6182be-3149-4a12-95ba-668065a1c783,ZZZ,Albania,al,109088575420950,Good Griffe,Facebook
+8d356c2e-1513-4ae8-93d1-ba95bbdbad5d,Seoul Mediacity Biennale,2023-11-18T05:05:26.966Z,3f3c070c-a4b6-46aa-9b86-dce27337b8db,ZZZ,Albania,al,325210599200,Seoul Mediacity Biennale,Facebook
+63ebdc64-2fe8-48c4-8df4-0141bbe8b947,Vy Oanh Authentic - Túi xách cao cấp uy tín,2023-05-07T06:51:08.689Z,658e9e24-8fee-47d7-8093-2578f0dd0fff,ZZZ,Albania,al,107237888124833,Vy Oanh Authentic - Túi xách cao cấp uy tín,Facebook
+995f4062-7624-4f1f-8b0f-8448184abcf9,Nomad Travel & Tours,2023-05-10T06:51:32.771Z,bf19077d-1fe7-4204-ad05-a7046cb1121b,ZZZ,Albania,al,1005401929643528,Nomad Travel & Tours,Facebook
+975f4c28-3241-4cab-9745-6d0913ee2a1d,nensi_bogdani_photoreportage,2023-10-21T05:06:05.551Z,968d0cf2-e833-4919-82a5-7aaecf02d107,ZZZ,Albania,al,102347917833388,nensi_bogdani_photoreportage,Facebook
+e547064c-95ea-4d68-8ca6-41f8f073e860,hass_arts,2023-12-18T05:06:06.524Z,b9d024c3-b9c1-4650-9269-99fde7a05be0,ZZZ,Albania,al,162397843628544,hass_arts,Facebook
+d212e4c6-caba-4890-9898-d605089ff461,Invest in Gothenburg,2023-12-15T05:05:39.504Z,70e17ee7-ce9a-49bb-95d2-7b15b7239955,ZZZ,Albania,al,1509818589151744,Invest in Gothenburg,Facebook
+a10485cb-3efe-4a15-9ddb-ccd9773cd924,株式市場の投資ルール,2023-12-20T05:05:20.585Z,07b03cea-9744-4a49-a7f9-8fc8f7b2d7cc,ZZZ,Albania,al,177876638745130,株式市場の投資ルール,Facebook
+1d7b9242-8a83-4587-b969-a76cd16d9a85,TRW,2023-12-02T17:13:53.668Z,f6aa2797-49e4-4287-8bc7-dfdf0104553e,ZZZ,Albania,al,620626954806244,TRW,Facebook
+36f46378-f1a5-4882-a99d-cdc157371feb,WiN FUND,2023-03-01T10:51:27.556Z,c2f6fc5b-c02c-4ad3-9793-b26e2182c9df,ZZZ,Albania,al,102497746096944,WiN FUND,Facebook
+0987350b-17a3-4b8d-90fa-0531ece12e44,Je Vis Sans Honte,2023-03-04T10:51:36.964Z,1f45abc9-a477-49c8-b364-7da4242cb474,ZZZ,Albania,al,111698038492991,Je Vis Sans Honte,Facebook
+f31da752-bcf6-4fac-a735-ce6a5a802a5a,Xender emmanuel the  Internet Analyst,2023-03-08T10:51:33.819Z,95acb274-2f7e-4312-bb99-0a2418bbf2cc,ZZZ,Albania,al,103789762224168,Xender emmanuel the  Internet Analyst,Facebook
+f0809ae7-da4b-4738-9f51-afb81db0e544,ARX,2023-02-19T10:51:46.020Z,b95f0488-4a0a-433c-9406-879bc321b07b,ZZZ,Albania,al,1386091578286558,ARX,Facebook
+6f11ee29-ccbf-40ad-bdb0-756bf9c7de38,She Inspires,2023-03-11T10:51:36.347Z,0251dc52-3ec4-4ee2-a9f2-f2855a609d0f,ZZZ,Albania,al,108457594617757,She Inspires,Facebook
+777848ff-bcb4-405d-a8ec-0bff1a84c889,MASIA ONE,2023-03-12T10:51:27.610Z,75791d0b-bcd2-4c3d-858f-ecb0d07089c2,ZZZ,Albania,al,34823056709,MASIA ONE,Facebook
+909ca9f3-42f8-4ddf-907f-3bff543956ba,CERGE-EI,2023-03-16T10:51:37.018Z,6db272b1-797c-48dd-98b4-967dac1920a0,ZZZ,Albania,al,139664717571,CERGE-EI,Facebook
+7104e2db-cc12-4277-853c-671a3f110551,Docsity.com,2023-03-20T10:51:20.632Z,27ae7cbd-fc21-4c48-a85a-fff4ce8d9595,ZZZ,Albania,al,128176740672395,Docsity.com,Facebook
+78b02853-c94d-4ee6-a707-5991c29b3350,Φρέντης Μπελέρης - Fredi Beleris,2023-03-24T10:51:32.640Z,7bd107a0-31ef-4729-83ee-8966131ce98a,ZZZ,Albania,al,103267072669443,Φρέντης Μπελέρης - Fredi Beleris,Facebook
+26f6f0d5-64b5-4a64-8613-638aa70e39c8,WeAreDevelopers,2023-03-26T10:51:13.770Z,667e77bb-bda1-4b1e-8e98-c73b90ea10b7,ZZZ,Albania,al,1094324843916090,WeAreDevelopers,Facebook
+6d86f726-a642-445f-9e3b-eb84ab8d5df0,ZTE Corporation,2023-03-28T10:51:26.355Z,2f99fb75-6357-4070-bf5d-f369a699bb2e,ZZZ,Albania,al,118592938221174,ZTE Corporation,Facebook
+83d1f48c-03d5-4758-b45f-4fd8a3e56cb2,GEP Worldwide,2023-03-31T10:51:33.105Z,ebb86117-817f-4651-9528-6ef6a2ec25a4,ZZZ,Albania,al,126376977448682,GEP Worldwide,Facebook
+bed0a087-d1fe-45cc-926f-045644b53b40,Boston Consulting Group,2023-12-04T05:05:31.085Z,bfb64a00-7b9b-4d17-91ee-8ac5284eec58,ZZZ,Albania,al,1766114710302448,Boston Consulting Group,Facebook
+eed7f23b-9182-44cc-a4f2-fb2affbc97e6,RelilahShop,2023-10-13T05:05:35.527Z,8976c3f1-fd61-4a2b-a01d-07915b6b9031,ZZZ,Albania,al,689120584604911,RelilahShop,Facebook
+d41bee8a-dfe7-4082-98ff-1053b78605a6,Magic1423-01,2023-04-04T10:51:33.102Z,b7f0be1c-80ab-436f-a1d5-29461b186784,ZZZ,Albania,al,102057912815989,Magic1423-01,Facebook
+344adf68-04aa-48a2-9337-362c1f5cf6ae,Wsp26,2023-04-07T10:51:26.714Z,d530d0d0-763f-46ea-9494-1d4e54526948,ZZZ,Albania,al,118815624485535,Wsp26,Facebook
+1fe24385-237a-4c89-af2e-236a41ecde3d,عالم مثير للاهتمام,2023-10-15T05:05:21.522Z,c5e7bcb0-512c-46ec-a57f-46d7a68b7087,ZZZ,Albania,al,116066208106047,عالم مثير للاهتمام,Facebook
+316e2148-6eb6-4fe0-8be4-6d30697b1757,Arabi21 - عربي21,2023-05-06T06:51:36.079Z,f4d53b3d-c5ee-41aa-ae72-01f165d44b15,ZZZ,Albania,al,820262131363591,Arabi21 - عربي21,Facebook
+dc84d277-88ad-4b57-b224-8e5053312cb7,More Hackz - MediaSmarter,2023-05-09T06:51:18.870Z,7a806cda-d808-451a-821d-6fdfdbe2be5e,ZZZ,Albania,al,110099331940978,More Hackz - MediaSmarter,Facebook
+613eaeca-2d2b-45ab-b490-69f726bbcb78,Smart doc magazin,2023-05-17T06:50:45.778Z,6326c1c9-6820-4096-afa6-d8895a8a596f,ZZZ,Albania,al,108558068531422,Smart doc magazin,Facebook
+a8d2be8e-9a18-4c30-92b5-c6fafcf62637,Helen cosmetics,2023-06-23T06:25:34.965Z,c14c6e8e-3b19-4377-8270-55ceef28a62f,ZZZ,Albania,al,103332555999124,Helen cosmetics,Facebook
+9a5f67fd-3af4-4f72-8a42-fb363c210e7b,av.ingridamustafa,2023-07-01T05:06:15.545Z,aaf9c7b6-2b93-4fed-a687-60f33714c741,ZZZ,Albania,al,103572621287103,av.ingridamustafa,Facebook
+f43b3486-f661-412a-8a49-cc878e310d46,balkanbooks,2023-03-01T10:51:27.543Z,c1a40da8-fcc5-4fdc-9b33-23ff0023f44d,ZZZ,Albania,al,102178899406051,balkanbooks,Facebook
+8a756f58-f187-4282-8227-05f5e831313d,DURAJ LAW FIRM,2023-03-05T10:51:39.249Z,64ad2f72-9a28-4279-80d9-f827b614b390,ZZZ,Albania,al,669334309818027,DURAJ LAW FIRM,Facebook
+9d217f31-b8df-4fa1-8910-d0c86254563b,Explore Haikou,2023-03-08T10:51:33.818Z,dde9e602-2002-47fd-a785-30147d7e93d3,ZZZ,Albania,al,109662488246997,Explore Haikou,Facebook
+1febbc6c-21f9-4305-9f2d-12bda478e406,Shree Krishnayan Desi Gauraksha Avam Golokdham Sewa Samiti,2023-02-17T10:51:21.968Z,649dd657-1272-42dd-9f01-459e9d9f0fca,ZZZ,Albania,al,198398326957053,Shree Krishnayan Desi Gauraksha Avam Golokdham Sewa Samiti,Facebook
+41bff7f1-0e78-4dd3-a244-d2123d868224,Sustainable Freedom With M,2023-03-10T10:51:25.632Z,015a9889-a61a-4146-97aa-a51eef5c4168,ZZZ,Albania,al,109128848758621,Sustainable Freedom With M,Facebook
+017f51fa-e11c-434e-b4d5-15d6e9c7f7bb,THEMOIRè,2023-03-12T10:51:27.608Z,266cdfc9-f890-4593-94e8-f0c6ab6b9782,ZZZ,Albania,al,100834738093107,THEMOIRè,Facebook
+85dda7ee-8d39-4d12-a178-6ae9fc394de1,Beyond Chrysant,2023-03-16T10:51:37.016Z,b80bc9bd-073d-4da1-99a9-18fbe8ca1ca4,ZZZ,Albania,al,760826260648984,Beyond Chrysant,Facebook
+5bda6d62-6341-47b7-aa73-459d5f6855e7,CGTN Sports Scene,2023-03-20T10:51:20.632Z,60dd3ae6-e9f7-4cf6-9e09-a7472ac60da6,ZZZ,Albania,al,109562720823279,CGTN Sports Scene,Facebook
+c4a13d53-69f8-411e-bc4b-2ed3057baf5d,Koray Beserler 1,2023-03-23T10:51:28.837Z,36d68dd7-687e-425c-97eb-a33441e1fd3b,ZZZ,Albania,al,108966741644172,Koray Beserler 1,Facebook
+a7bc9839-811d-4d14-9408-0fc3a41ef962,MetropolPost.al,2023-03-25T10:51:10.705Z,d18f906a-efdc-4dc8-b54f-78dcf6d811db,ZZZ,Albania,al,107460137887042,MetropolPost.al,Facebook
+8d908982-6fbd-4e98-bc1a-d9bd8b11c155,First Ascent,2023-03-28T10:51:26.335Z,02a538e4-be00-472f-86ee-b3825e88a6ea,ZZZ,Albania,al,322277311634083,First Ascent,Facebook
+053e0c8b-337c-4ad1-b63f-e97be4b881a7,Платформа pleso,2023-03-31T10:51:33.100Z,8a1dcfbe-ea27-4b44-86d1-ef12f5de8416,ZZZ,Albania,al,154606266348938,Платформа pleso,Facebook
+389864d4-7eee-448a-b49c-ea1200db1a63,Economy & Life,2023-12-04T05:05:31.081Z,4d05d342-b544-408d-b8b4-f40aa442d6e9,ZZZ,Albania,al,122139487649031,Economy & Life,Facebook
+9eb522e0-c9fe-43c0-93d2-667ae8852269,Bruks Siwertell Global,2023-11-17T05:05:14.615Z,99ab6ff6-244a-4d6a-8d42-ff0385deeda0,ZZZ,Albania,al,1028598293945038,Bruks Siwertell Global,Facebook
+30238096-6e4d-450b-812a-66e450eb7553,RDA SPOT,2023-04-04T10:51:33.073Z,1e528be6-5fe8-4ee3-a628-b94dfe7723d4,ZZZ,Albania,al,112846865029121,RDA SPOT,Facebook
+f11edb56-b3a4-4fe6-ba38-2895af22209f,Magic1674-03,2023-04-06T10:51:48.971Z,50057590-bb3d-4797-b20d-d9f17726d76a,ZZZ,Albania,al,102830139403510,Magic1674-03,Facebook
+6d35e826-f0a5-465e-a6e8-14d1db59ab6c,One Ummah,2023-10-14T05:05:16.960Z,74da4c14-4c99-4e2a-8985-00e25789882e,ZZZ,Albania,al,715337551812957,One Ummah,Facebook
+3ccb9998-e0aa-4ca0-b737-85b7e94e40d0,Ukrainian Tech Ecosystem,2023-11-06T05:05:12.514Z,f50855e3-8332-42ea-b4a1-28d5da5abbc9,ZZZ,Albania,al,111963871645400,Ukrainian Tech Ecosystem,Facebook
+d6ad311c-7818-4081-904f-763b37ba7eac,חיים בשביל החי,2023-10-19T05:05:21.908Z,9a49577a-585f-47a1-896f-c0e4694f05a6,ZZZ,Albania,al,102749896226364,חיים בשביל החי,Facebook
+0ebba0e2-b84e-4c02-8c2f-7b694df4454e,E-Governance Academy,2023-05-12T06:51:22.498Z,dc6f6802-2df8-4b98-b8f2-ad2164941907,ZZZ,Albania,al,152337141468781,E-Governance Academy,Facebook
+521833e0-7b02-42af-94e5-c7913dd3bb53,China News 中国新闻网,2023-12-11T05:05:13.149Z,a2069840-a51b-4592-b8c4-2215be81ff9e,ZZZ,Albania,al,193342920825918,China News 中国新闻网,Facebook
+2c35d378-3c57-4117-ba24-055ca935dd73,Extra Real Estate Media,2023-06-30T05:06:04.140Z,4a6082ec-b8eb-446f-a850-dc81770d0189,ZZZ,Albania,al,111996038539120,Extra Real Estate Media,Facebook
+2a598d77-1250-413b-bd48-8380311f2afd,World Gastroenterology Organisation,2023-12-12T05:06:24.859Z,2a380583-ec4c-45ab-9d4a-b0b1faad1b7e,ZZZ,Albania,al,1133794223348221,World Gastroenterology Organisation,Facebook
+ed43c708-4b2e-4834-b49f-676ef1b53d78,Think Then Choose Wisely,2023-03-03T10:51:30.857Z,637cdd12-95fb-4de6-91c9-2f67423f2e86,ZZZ,Albania,al,478670012154037,Think Then Choose Wisely,Facebook
+30d2c985-4434-4d54-bffa-5294be31b012,leenfineart,2023-03-05T10:51:39.285Z,928610e5-38bc-4c20-83c5-7678dcbec0a6,ZZZ,Albania,al,105350788828077,leenfineart,Facebook
+225c285f-8b75-4eb8-9b76-4c331241ffd2,Hashtag.al,2023-02-17T10:51:21.784Z,f95a2e71-be9d-4bb9-a2ca-c6eb16e50a18,ZZZ,Albania,al,229603583867308,Hashtag.al,Facebook
+a236037e-89d9-469f-b1ed-0baae2701658,ATA,2023-03-08T18:24:34.966Z,919728bb-8b4c-4d73-bfa7-a4fc7405f1b0,ZZZ,Albania,al,636337473080806,ATA,Facebook
+e9aeddca-bfdb-4232-9e69-1daed8b93a0a,Fernstudium Direkt,2023-03-12T10:51:27.595Z,d200ca5d-5bb6-4718-857f-39b14aa701ec,ZZZ,Albania,al,1496843297242441,Fernstudium Direkt,Facebook
+a9b0f6ad-8a2e-46f3-b577-9574eb0e4ca8,Bubble X,2023-03-13T10:51:19.861Z,78d7306b-89fb-4138-b5a3-9c51335a4edf,ZZZ,Albania,al,107629502009399,Bubble X,Facebook
+3d1a6415-2418-4141-add9-dba48c15f877,Nature,2023-03-18T10:51:21.626Z,df955add-c160-4dae-8dc5-4302082e7be8,ZZZ,Albania,al,109098014970060,Nature,Facebook
+4b49f20c-bccd-4e58-9311-fe271337d562,Dre2644-Novels,2023-03-23T10:51:28.852Z,249a7131-d404-4045-8002-fa7ed634f382,ZZZ,Albania,al,114496691584484,Dre2644-Novels,Facebook
+7e466528-9f75-4982-b2f9-7ec777a8e295,The Curated,2023-03-18T10:51:21.627Z,68dfe33e-20d0-4025-8a6b-fb09f3ce9d88,ZZZ,Albania,al,1935032756820012,The Curated,Facebook
+61206d93-b572-4ac4-9bf7-a97f6ef33379,Dre7566-Stories,2023-03-23T10:51:28.844Z,e3b9de7c-65bb-436b-8d1d-b6ea902cb1bf,ZZZ,Albania,al,116126484753041,Dre7566-Stories,Facebook
+99cb063b-e541-4ceb-81cf-3695b5d0fe1e,Bookland Albania,2023-03-29T10:51:26.859Z,6ad1f8df-391a-4974-9fba-a7c784c65567,ZZZ,Albania,al,111511427376667,Bookland Albania,Facebook
+3302caa0-7bb7-4b4f-95b8-4166fa2b44f7,China Huaneng in Cambodia,2023-04-02T10:51:34.397Z,3fd823a4-8d0a-4c74-ac8f-4a23684d04f2,ZZZ,Albania,al,103175548153206,China Huaneng in Cambodia,Facebook
+2d532983-9aa1-4ab4-bfae-c8825ea6f7ac,Media e Lire,2023-04-07T10:51:26.712Z,02e23d56-28b2-431d-88c7-adc001a5318b,ZZZ,Albania,al,181457435377808,Media e Lire,Facebook
+faba6c6e-fcea-4cb9-b6f8-c665272d9662,The Stephen 3 •Influencers•,2023-04-02T10:51:34.394Z,22b37b96-3bdd-43e4-9693-3680691d56a3,ZZZ,Albania,al,907478086066710,The Stephen 3 •Influencers•,Facebook
+9ab49528-97e3-410f-87f4-33f3d917e4a6,EMRA FILMS,2023-04-06T10:51:48.948Z,7e4037ab-5ad7-4ef3-9898-be4a9c46e654,ZZZ,Albania,al,102372992176022,EMRA FILMS,Facebook
+92e84ee7-6f41-46b1-957e-6ca4bf6df456,Juventus,2023-04-10T10:50:54.894Z,baa8eaa9-8f85-4407-9ca8-c1db93883224,ZZZ,Albania,al,171522852874952,Juventus,Facebook
+9a3faf1e-f7ae-4702-af99-06164c702e85,Rocket stories FS,2023-04-29T06:51:18.341Z,6a151460-3f35-4abc-8e14-950e91cf002f,ZZZ,Albania,al,107183418710416,Rocket stories FS,Facebook
+e3c767d0-3b8d-4408-b8f6-2bd559a43c3d,fisnik.qosja,2023-05-09T06:51:18.810Z,e6bd1deb-2626-47b2-8126-255f16fc3b08,ZZZ,Albania,al,113053135065164,fisnik.qosja,Facebook
+0101de83-e3c5-4b7c-8a91-90fd693dfdcf,Sales Machine,2023-10-20T05:05:19.359Z,70550996-c6db-4120-8653-876ae65e2e13,ZZZ,Albania,al,103655172725307,Sales Machine,Facebook
+4275db12-ec98-44bf-ba13-29594dd32683,Mohammed Al-Issa محمد العيسى,2023-10-23T05:05:06.873Z,caa53a9a-4dd4-459d-b7ef-44f4f9f933b5,ZZZ,Albania,al,109534787605542,Mohammed Al-Issa محمد العيسى,Facebook
+c3f25476-5a13-4a97-87ca-943686279ce6,BYD Auto Europe,2023-12-16T05:05:33.067Z,42cf1eed-85b1-4a70-b269-fda3e382b4fd,ZZZ,Albania,al,100120512840618,BYD Auto Europe,Facebook
+eb6762e8-c43b-44b4-abd9-ff5f0601da06,AFCR,2023-12-20T05:05:20.531Z,49c675c6-b04b-4f1f-b006-272479facea0,ZZZ,Albania,al,1524922077725105,AFCR,Facebook
+afbab72f-9c01-4c77-9b35-075886297a4e,Delyanne The Money Coach LLC,2023-03-05T10:51:39.263Z,4de499a1-a4bb-47b6-b2e2-6e62186e4fb9,ZZZ,Albania,al,101010421461159,Delyanne The Money Coach LLC,Facebook
+66626e56-a665-4271-a62a-9afcce24a4ce,Planet Fights,2023-02-08T05:54:33.207Z,1a8bb5f7-9f68-4862-816f-5ccf8a1b7315,ZZZ,Albania,al,102784439372123,Planet Fights,Facebook
+9ba8763c-e11f-4a70-9a8f-d52b064d0291,Reporter.al,2023-03-08T17:41:49.975Z,cca3a2f2-5900-42e1-8d63-a9a86edccd1b,ZZZ,Albania,al,345846188901445,Reporter.al,Facebook
+5f457f81-5dfb-4048-b63e-cfef35c06cb4,ACT2gether,2023-03-12T10:51:27.592Z,effba4be-70c5-438e-bac4-1848e332e8b9,ZZZ,Albania,al,307682176615916,ACT2gether,Facebook
+60c57209-4c1e-4a54-8609-45e74b55a6f0,Yolla - International Calling,2023-03-13T10:51:19.846Z,13e8790c-f4d5-4a92-9c37-46ceef7bd25d,ZZZ,Albania,al,815563748564959,Yolla - International Calling,Facebook
+36d93e72-2f11-4968-acac-3608a83174ba,Diario del Pueblo,2023-10-31T05:28:16.360Z,14c6f9a6-a95c-4c30-b2ce-52c05f663798,ZZZ,Albania,al,104831325728448,Diario del Pueblo,Facebook
+6436383b-8d4f-43fa-96f1-1b10d6cb6255,Dre5915-MeReading,2023-03-23T10:51:28.823Z,45561902-41c7-4419-b371-b85b4d546785,ZZZ,Albania,al,107659855588990,Dre5915-MeReading,Facebook
+cf37aec3-59b1-4aa5-aec5-cb2409aa0f8b,Food Is In The House Rhythm,2023-03-25T10:51:10.688Z,bf3bebff-90b1-4961-aea3-013c4312d421,ZZZ,Albania,al,100615251929173,Food Is In The House Rhythm,Facebook
+3c0089c5-b671-4bc6-bbb6-781cdf011092,Learning English with Oxford,2023-03-22T10:51:11.406Z,3427b687-0058-47ed-bf08-1e3352064826,ZZZ,Albania,al,2354017254707192,Learning English with Oxford,Facebook
+35f66f29-6950-4ff6-bdd0-3791b01eb23d,Materials MDPI,2023-03-29T10:51:26.920Z,de4593a4-bd43-471e-82e3-dda56e6c5111,ZZZ,Albania,al,106931698352366,Materials MDPI,Facebook
+37a7a668-cc9b-44ab-be08-0c66e2af2834,Op. Dr. Sarper Mete,2023-04-05T10:51:23.108Z,e0dcba93-ed6c-4d31-9be6-e19372a26a20,ZZZ,Albania,al,107638035436296,Op. Dr. Sarper Mete,Facebook
+0ec1e0e0-a898-484d-b071-e77f3d58840c,Live Fun,2023-11-03T05:05:28.287Z,5ba317b2-b26c-4abb-979b-900acd165da8,ZZZ,Albania,al,103829825942289,Live Fun,Facebook
+e204f734-9578-4cd4-a29e-d6f5a7504a7e,Troç.al,2023-03-27T10:51:33.138Z,03d63162-ca1e-4947-9667-bf0c0f579548,ZZZ,Albania,al,475110286298103,Troç.al,Facebook
+5e857fb1-cd28-431f-bfcc-8517f2e20b3e,Mc01-36,2023-04-06T10:51:48.989Z,4cfe16ea-0940-460c-bbbd-1ad115520048,ZZZ,Albania,al,114061111633501,Mc01-36,Facebook
+6a439ecf-61e8-4b0b-aed3-cd7e9dc66ab1,Waokeem-EU,2023-04-16T15:03:38.596Z,b8021bb0-0ed1-4afa-a905-db531b34e2f6,ZZZ,Albania,al,100689636310150,Waokeem-EU,Facebook
+0ec38831-58bc-463a-b279-a82bf7a77782,Jean Richard MusiK,2023-05-06T06:51:36.067Z,eb1bcb07-13e0-41f6-9c8f-2a01a31d2917,ZZZ,Albania,al,333293986861604,Jean Richard MusiK,Facebook
+a78b9c5f-60cc-4008-8023-49ebbb80aab3,Surf Proxy,2023-05-09T06:51:18.853Z,afbb4e9c-ba43-4192-8f06-9bbcbaf5beab,ZZZ,Albania,al,115138161487991,Surf Proxy,Facebook
+e53207a1-b723-439a-8caa-4b3df99c65bd,Stagings Travel Design,2023-05-13T06:51:22.688Z,6100297c-7060-4ea2-95d5-d04ef7ed0ad7,ZZZ,Albania,al,604722406392945,Stagings Travel Design,Facebook
+5f57ea43-4b37-4c27-89f5-0ca4ce8a4e89,Net TV Plus,2023-11-20T05:05:39.151Z,0258d639-9fce-4af5-84ea-2afba8a42f21,ZZZ,Albania,al,171066719573441,Net TV Plus,Facebook
+c5b1277a-cb35-4541-a59a-3ca8b3a431a6,ISPRS International Journal of Geo-Information,2023-12-16T05:05:33.103Z,3dc4c05c-7971-47b9-b8d9-592d6873d78b,ZZZ,Albania,al,101265346105679,ISPRS International Journal of Geo-Information,Facebook
+883a0bec-3c3a-4476-aa2d-be97da70b6a0,Alb RevoKult,2023-12-20T05:05:20.530Z,0c1cc850-a89d-4ae8-8467-5a12b42b3b9b,ZZZ,Albania,al,168793469799540,Alb RevoKult,Facebook
